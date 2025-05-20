@@ -1,6 +1,7 @@
 Quiz Game 🎓💻
 
 Welcome to Quiz Game, an intellectually enriching academic endeavor crafted with passion and precision! 🎉 This interactive Python application, developed using tkinter for its graphical interface, provides an engaging platform for users to test and broaden their knowledge across diverse topics. 🧠 Conceived as part of my academic pursuits, this project exemplifies my commitment to translating theoretical concepts into practical, real-world applications, serving as a cornerstone of my growth at the University of Craiova. Below, I offer a detailed exploration of its development, functionality, and technical underpinnings.
+
 ![Image](https://github.com/user-attachments/assets/7c90f283-e72a-48be-ade7-a7b9845657c6)
 
 About the Project 📚
