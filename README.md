@@ -1,115 +1,105 @@
-# Quiz-Game
-My Python Quiz-Game project
 Quiz Game 🎓💻
-Welcome to Quiz Game, an academic project developed with passion and dedication! 🎉 This interactive application, crafted in Python using tkinter for the graphical interface, offers users an engaging platform to test and expand their knowledge across various topics. 🧠 Designed as part of my academic journey, this project reflects my commitment to applying theoretical concepts to practical, real-world solutions. Below, I’ll provide a comprehensive overview of the project, its development, functionality, and technical details.
 
+Welcome to Quiz Game, an intellectually enriching academic endeavor crafted with passion and precision! 🎉 This interactive Python application, developed using tkinter for its graphical interface, provides an engaging platform for users to test and broaden their knowledge across diverse topics. 🧠 Conceived as part of my academic pursuits, this project exemplifies my commitment to translating theoretical concepts into practical, real-world applications, serving as a cornerstone of my growth at the University of Craiova. Below, I offer a detailed exploration of its development, functionality, and technical underpinnings.
 ![Image](https://github.com/user-attachments/assets/7c90f283-e72a-48be-ade7-a7b9845657c6)
 
 About the Project 📚
-I am Dalia Adriana, a second-year student at the Faculty of Automation, Computers, and Electronics in Craiova, Romania, pursuing a degree in Multimedia Systems Engineering. 🎓 This project was undertaken for the Algorithm Design course, a key component of my curriculum, under the guidance of my esteemed professors. The course focuses on designing efficient algorithms and implementing them in software, and this game serves as a hands-on application of those principles. 🚀 The project was inspired by the need for an educational tool that blends entertainment with learning, aiming to reinforce my skills in programming, algorithm optimization, and user interface design.
-The development process spanned several weeks and involved multiple stages:
+I am Dalia Adriana, a second-year student at the Faculty of Automation, Computers, and Electronics (FACE) in Craiova, Romania, specializing in Multimedia Systems Engineering. 🎓 This project was undertaken as a key assignment for the Algorithm Design course, a fundamental component of my curriculum, under the esteemed guidance of my professors. The course is dedicated to mastering the design and implementation of efficient algorithms, and Quiz Game stands as a practical manifestation of these principles. 🚀
+The genesis of this project arose from a vision to create an educational tool that seamlessly blends entertainment with learning. Spanning several weeks, the development process encompassed meticulous planning, coding, testing, and refinement. I began by outlining objectives such as a category-based question system, dynamic scoring, and user profiles, sketching workflows to optimize algorithms for question randomization and score management. Implementation involved constructing the QuizGame class in quiz.py, integrating the GUI with tkinter, and enhancing the experience with pygame and numpy for sound effects, alongside json for data persistence. Rigorous testing addressed challenges like question duplication and interface lag, utilizing the quiz_game.log file for error tracking. Peer feedback and self-assessment drove refinements, including hint options and a statistics tracker, elevating both usability and educational impact. This journey not only sharpened my technical prowess but also deepened my insight into algorithmic efficiency and user-centered design, marking it as a significant milestone in my academic portfolio. 📈
+🔑 Features
 
-Planning: I began by defining the game’s objectives, including a category-based question system, dynamic scoring, and user profiles. I sketched the workflow, identifying key algorithms for question randomization and score tracking.
-Implementation: Using Python, I built the game’s core logic with the QuizGame class in quiz.py, integrated the GUI with tkinter, and added sound effects using pygame and numpy. The json module was employed to manage user data dynamically.
-Testing: I conducted rigorous testing to ensure stability, addressing issues such as question duplication and interface lag. This involved running the game with various inputs and monitoring the quiz_game.log file for errors.
-Refinement: Feedback from peers and self-assessment led to enhancements like hint options and a statistics tracker, improving user experience and educational value.
+👤 User Registration and Login: Enables secure account creation and login, ensuring personalized progress tracking.
+🔐 Secure Authentication: Employs password hashing and session management to safeguard user data.
+🧩 Question Categories: Supports multiple categories (e.g., General Knowledge, Countries and Cities), with questions sourced from text files in the categories directory or simulated if absent.
+🎮 Gameplay Mechanics: Allows users to select difficulty levels and answer questions, earning points with optional hints ("Half Letters" or "First Letter") at a cost.
+📊 Scoring and Levels: Awards points for correct answers, unlocking levels (e.g., Level 4 at 60/100 XP) to foster continuous engagement.
+📈 Statistics Tracker: Records performance metrics such as average score and game duration.
+🏆 Highscores System: Maintains a dynamic leaderboard of top scores.
+🚪 Exit and Navigation: Permits users to return to the menu or restart, with progress saved for logged-in users.
 
-This project not only honed my technical skills but also deepened my understanding of algorithm efficiency and software design, making it a significant milestone in my academic portfolio. 📈
-Project Details and Functionality 🌟
-How the Game Works
-Quiz Game is designed to engage users in a question-and-answer format, with the following core mechanics:
+⚠ Known Issues and Limitations
 
-Categories: The game supports multiple categories (e.g., General Knowledge, Countries and Cities), with questions stored in text files within the categories directory. If no files are present, the game simulates questions to maintain functionality.
-Gameplay: Users log in or register, select a category and difficulty level, and answer a set number of questions. Each correct answer earns points, while hints (e.g., "Half Letters," "First Letter") can be used at a point cost.
-Scoring and Levels: Points accumulate based on correct answers, with levels increasing as thresholds are met (e.g., Level 4 at 60/100 XP). This gamification encourages continuous play.
-Statistics and Highscores: The game tracks performance metrics (e.g., average score, time per game) and maintains a highscore list, saved dynamically in generated JSON files.
-Exit and Restart: Users can exit to the menu or restart, with all progress saved for logged-in users.
+Hint Logic: The hint system ("Half Letters," "First Letter") may occasionally offer suboptimal assistance due to random selection limitations.
+Question Simulation: Simulated questions, used when category files are absent, lack depth and may repeat, necessitating manual file creation for a richer experience.
+Performance Constraints: Local testing with SQLite may experience lag with a large user base, rendering it unsuitable for production-scale deployment.
+Sound Compatibility: Audio effects via pygame are basic and may require additional configuration for consistent performance across systems.
 
-Technical Implementation
-The game’s architecture is built around the following components:
+🧪 Technologies Used
 
-Main Script (main.py): Initializes the GUI window, sets the background, and launches the QuizGame instance. It uses a main event loop to handle user interactions.
-Game Logic (quiz.py): Contains the QuizGame class, which manages question loading, user input validation, scoring, and hint logic. Key methods include:
-load_questions(): Reads questions from categories files or generates random ones.
-check_answer(): Compares user input with the correct answer, updating the score.
-save_data(): Serializes user data and highscores to JSON files.
+Backend: Python, with core logic in quiz.py and initialization in main.py.
+Frontend: tkinter for graphical interface development.
+Audio Processing: pygame and numpy for sound generation and playback.
+Image Handling: Pillow (PIL) for background resizing.
+Data Management: json for persistent storage of user data and highscores.
+Development Tools: Native Python libraries and a local development environment.
 
+📦 Requirements
+To execute this project locally, ensure the following dependencies are installed:
 
-Libraries:
-tkinter: Provides the graphical interface, including buttons, entry fields, and labels.
-pygame and numpy: Enable sound effects, processed as NumPy arrays for compatibility.
-Pillow (PIL): Handles image resizing (e.g., background to 800x600 pixels).
-json: Manages persistent data storage.
+Python 3.x 🐍
+tkinter (included with Python)
+pygame 🎵
+numpy 📊
+Pillow (PIL) 🖼️
+json (included with Python)
 
+Install the required libraries with the following command:
+pip install pygame numpy pillow
 
-Algorithms: The game employs a random selection algorithm for questions, optimized with a shuffle function to avoid repetition, and a linear search for highscore updates.
+🔧 Setup Instructions
+Follow these detailed steps to set up and run the project on your laptop:
 
-Commands and Usage
-To set up and run the game locally, follow these steps:
+Verify Python Installation: Confirm your Python version is installed:
+python --version
 
-Install Python: Ensure Python 3.x is installed. Verify with:python --version
+or
+python3 --version
 
-orpython3 --version
+If not installed, download it from https://www.python.org/.
 
+Install Dependencies: Navigate to your project directory and install the necessary libraries:
+cd path/to/Quiz-Game
+pip install pygame numpy pillow
 
-Install Dependencies: Install required libraries using pip:pip install pygame numpy pillow
-
-Check installation with:pip show pygame
+Verify installation with:
+pip show pygame
 pip show numpy
 pip show pillow
 
 
-Run the Game: Navigate to the project directory in your terminal or command prompt:cd path/to/Quiz-Game
+Run the Game: Launch the application from the project directory:
+python main.py
 
-Then start the game:python main.py
+The game will initialize, generating users.json, last_login.json, and highscores.json if they do not exist.
 
+Manage Data Files: To reset user data or highscores, manually delete the generated JSON files and restart the game.
 
-Manage Data Files: The game generates users.json, last_login.json, and highscores.json on first run. To reset them (if needed), delete these files manually and restart the game.
-Add Questions: Create text files in the categories directory (e.g., general_easy.txt) with questions in the format:Question: What is the capital of France?
+Add Questions: Enhance gameplay by creating text files in the categories directory (e.g., general_easy.txt). Use the following format:
+Question: What is the capital of France?
 Answer: Paris
 
-Save and rerun the game to load new questions.
-
-Educational Value
-Quiz Game transcends entertainment, serving as a robust learning tool. It encourages users to explore diverse topics, reinforces memory through repeated engagement, and fosters strategic thinking via hint usage. For me, the project was a practical exercise in applying data structures (e.g., lists for questions), control flow (e.g., game loops), and file I/O (e.g., JSON handling), aligning with the Algorithm Design curriculum. It also enhanced my problem-solving skills and introduced me to multimedia integration, a cornerstone of my specialization.
-Requirements ⚙️
-To run the game, you need:
-
-Python 3.x 🐍
-tkinter (included with Python)
-pygame (for sounds) 🎵
-numpy (for sound generation)
-Pillow (PIL) (for images) 🖼️
-json (included with Python)
-
-Install the required libraries with the command:
-pip install pygame numpy pillow
-
-How to Run ▶️
-
-Ensure you have installed the required libraries (see above).
-Navigate to the project directory:cd path/to/Quiz-Game
+Save the file and rerun the game to load the new questions.
 
 
-Run the main file:python main.py
+📁 Project Structure
+
+Quiz-Game/
+main.py: The primary script that initializes the game interface and event loop. 🚀
+quiz.py: Contains the QuizGame class, managing game logic, input validation, scoring, and data persistence. 🧩
+back.jpg: The background image file utilized by the game. 🖼️
+categories/: Directory for storing question text files (e.g., general_easy.txt).
+quiz_game.log: Log file for debugging and error monitoring. 📜
 
 
 
-File Structure 📂
+📜 Educational Value and Disclaimer
+Quiz Game transcends traditional entertainment, emerging as a potent educational tool. It inspires users to delve into varied subjects, strengthens memory through repeated engagement, and nurtures strategic thinking through hint utilization. For me, this project was a hands-on exploration of data structures (e.g., lists for questions), control flow (e.g., game loops), and file input/output (e.g., JSON management), perfectly aligning with the Algorithm Design curriculum. It also bolstered my problem-solving abilities and introduced me to multimedia integration, a pivotal aspect of my specialization.
+Disclaimer: This project is the product of the Algorithm Design laboratory at the Faculty of Automation, Computers, and Electronics (FACE), University of Craiova (http://ace.ucv.ro/). It is intended for educational purposes and may include limitations or incomplete features. Use it at your own risk, and conduct thorough testing and configuration before considering any production deployment. 🔬
 
-main.py: The main script that launches the game. 🚀
-quiz.py: Contains the QuizGame class with the game logic. 🧩
-back.jpg: The game background. 🖼️
-quiz_game.log: Log file for debugging. 📜
-
-Notes 📝
-
-The game automatically generates files such as users.json, last_login.json, and highscores.json on the first run to store user data and scores. These are not included locally for confidentiality reasons. 🔒 To reset, delete these files and restart.
-For full functionality, add question files to the categories directory (e.g., general_easy.txt). If none exist, the game simulates questions. ❓
 ![Image](https://github.com/user-attachments/assets/4963f886-48fb-496d-949d-e0f8d6d14d31)
 ![Image](https://github.com/user-attachments/assets/db93e39d-76ba-4551-b6af-3c33bd9ece98)
 ![Image](https://github.com/user-attachments/assets/587a5f82-7b1d-4e35-a6a1-c00c116693ae)
 ![Image](https://github.com/user-attachments/assets/48e23c6e-2a48-444e-848a-efdb0ae8e023)
 ![Image](https://github.com/user-attachments/assets/fd528f59-00f0-427b-9060-a9e7c4b5ca9e)
 
-Thank you for exploring my project! I hope you enjoy Quiz Game! 😊 I welcome any feedback or suggestions to further enhance this academic endeavor. 💬
+Thank you for immersing yourself in my project! I hope you find Quiz Game both captivating and instructive! 😊 I warmly welcome your feedback or suggestions to further enrich this academic endeavor. 💬
