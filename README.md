@@ -75,13 +75,14 @@ pip install pygame numpy pillow
 
 Follow these detailed steps to set up and run the project on your laptop:
 
-
 Verify Python Installation: Confirm your Python version is installed:
+
 python --version or python3 --version
 
 If not installed, download it from https://www.python.org/.
 
 Install Dependencies: Navigate to your project directory and install the necessary libraries: cd path/to/Quiz-Game pip install pygame numpy pillow
+
 Verify installation with:
 
 pip show pygame
@@ -92,6 +93,7 @@ pip show pillow
 
 
 Run the Game: Launch the application from the project directory: python main.py
+
 The game will initialize, generating users.json, last_login.json, and highscores.json if they do not exist.
 
 Manage Data Files: To reset user data or highscores, manually delete the generated JSON files and restart the game.
