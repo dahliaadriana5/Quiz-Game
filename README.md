@@ -83,6 +83,7 @@ quiz_game.log: Log file for debugging and error monitoring. 📜
 Quiz Game transcends traditional entertainment, emerging as a potent educational tool. It inspires users to delve into varied subjects, strengthens memory through repeated engagement, and nurtures strategic thinking through hint utilization. For me, this project was a hands-on exploration of data structures (e.g., lists for questions), control flow (e.g., game loops), and file input/output (e.g., JSON management), perfectly aligning with the Algorithm Design curriculum. It also bolstered my problem-solving abilities and introduced me to multimedia integration, a pivotal aspect of my specialization.
 Disclaimer: This project is the product of the Algorithm Design laboratory at the Faculty of Automation, Computers, and Electronics (FACE), University of Craiova (http://ace.ucv.ro/). It is intended for educational purposes and may include limitations or incomplete features. Use it at your own risk, and conduct thorough testing and configuration before considering any production deployment. 🔬
 
+![image](https://github.com/user-attachments/assets/9de097c9-96b3-4fe3-87ff-965a366af987)
 ![Image](https://github.com/user-attachments/assets/4963f886-48fb-496d-949d-e0f8d6d14d31)
 ![Image](https://github.com/user-attachments/assets/db93e39d-76ba-4551-b6af-3c33bd9ece98)
 ![Image](https://github.com/user-attachments/assets/587a5f82-7b1d-4e35-a6a1-c00c116693ae)
