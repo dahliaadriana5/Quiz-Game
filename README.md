@@ -71,6 +71,7 @@ python main.py
 The game will initialize, generating users.json, last_login.json, and highscores.json if they do not exist.
 Manage Data Files: To reset user data or highscores, manually delete the generated JSON files and restart the game.
 Add Questions: Enhance gameplay by creating text files in the categories directory (e.g., general_easy.txt). Use the following format:
+
 Question: What is the capital of France?
 Answer: Paris
 Save the file and rerun the game to load the new questions.
