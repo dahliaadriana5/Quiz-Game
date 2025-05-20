@@ -1,0 +1,23 @@
+{
+    "Dalia": "a079a18a4e4105b2e739f77f861b527b54296e66d1ad399ed06c9ad84de1a670",
+    "adriana": "0545493de4891b35576aecdc44e0aacc9c08a4a26b39be3db4dcaa8f489a2bdc",
+    "dalia25": "a079a18a4e4105b2e739f77f861b527b54296e66d1ad399ed06c9ad84de1a670",
+    "roberta": {
+        "password": "84313ef39b0a979f0608491608870b3f2065f447d73e4373ba75ae2330aa82b5",
+        "level": 1,
+        "experience": 75,
+        "max_hints": 3
+    },
+    "dalia44": {
+        "password": "a079a18a4e4105b2e739f77f861b527b54296e66d1ad399ed06c9ad84de1a670",
+        "level": 4,
+        "experience": 60,
+        "max_hints": 6
+    },
+    "user": {
+        "password": "04f8996da763b7a969b1028ee3007569eaf3a635486ddab211d512c85b9df8fb",
+        "level": 1,
+        "experience": 45,
+        "max_hints": 3
+    }
+}

@@ -1,0 +1,142 @@
+[
+    {
+        "name": "dalia44",
+        "score": 8,
+        "date": "2025-05-20 16:11",
+        "category": "general",
+        "difficulty": "ușor",
+        "questions": 15,
+        "time": 203.04,
+        "hints_used": 0
+    },
+    {
+        "name": "dalia44",
+        "score": 7,
+        "date": "2025-04-30 13:36",
+        "category": "general",
+        "difficulty": "mediu",
+        "questions": 10,
+        "time": 265.53,
+        "hints_used": 4
+    },
+    {
+        "name": "dalia25",
+        "score": 6,
+        "date": "2025-04-30 08:52",
+        "category": "general",
+        "difficulty": "mediu",
+        "questions": 10,
+        "time": 82.74,
+        "hints_used": 1
+    },
+    {
+        "name": "dalia25",
+        "score": 6,
+        "date": "2025-04-30 08:53",
+        "category": "general",
+        "difficulty": "mediu",
+        "questions": 10,
+        "time": 96.35,
+        "hints_used": 1
+    },
+    {
+        "name": "Dalia",
+        "score": 5,
+        "date": "2025-04-15 20:51",
+        "category": "geografie",
+        "difficulty": "ușor",
+        "questions": 10,
+        "time": 89.44,
+        "hints_used": 4
+    },
+    {
+        "name": "roberta",
+        "score": 5,
+        "date": "2025-04-30 09:09",
+        "category": "general",
+        "difficulty": "mediu",
+        "questions": 10,
+        "time": 115.24,
+        "hints_used": 2
+    },
+    {
+        "name": "roberta",
+        "score": 5,
+        "date": "2025-04-30 09:09",
+        "category": "general",
+        "difficulty": "mediu",
+        "questions": 10,
+        "time": 134.74,
+        "hints_used": 2
+    },
+    {
+        "name": "dalia44",
+        "score": 5,
+        "date": "2025-05-20 16:02",
+        "category": "general",
+        "difficulty": "mediu",
+        "questions": 10,
+        "time": 172.09,
+        "hints_used": 5
+    },
+    {
+        "name": "dalia",
+        "score": 4,
+        "date": "2025-04-15 09:42",
+        "category": "general",
+        "difficulty": "mediu",
+        "questions": 10,
+        "time": 104.53,
+        "hints_used": 3
+    },
+    {
+        "name": "dalia44",
+        "score": 4,
+        "date": "2025-05-20 16:07",
+        "category": "general",
+        "difficulty": "greu",
+        "questions": 20,
+        "time": 221.45,
+        "hints_used": 5
+    },
+    {
+        "name": "user",
+        "score": 3,
+        "date": "2025-04-30 10:02",
+        "category": "general",
+        "difficulty": "mediu",
+        "questions": 10,
+        "time": 63.22,
+        "hints_used": 3
+    },
+    {
+        "name": "user",
+        "score": 3,
+        "date": "2025-04-30 10:02",
+        "category": "general",
+        "difficulty": "mediu",
+        "questions": 10,
+        "time": 68.38,
+        "hints_used": 3
+    },
+    {
+        "name": "dalia44",
+        "score": 2,
+        "date": "2025-04-30 09:57",
+        "category": "general",
+        "difficulty": "ușor",
+        "questions": 5,
+        "time": 72.59,
+        "hints_used": 1
+    },
+    {
+        "name": "adriana",
+        "score": 0,
+        "date": "2025-04-29 16:51",
+        "category": "știință",
+        "difficulty": "greu",
+        "questions": 10,
+        "time": 0.0,
+        "hints_used": 0
+    }
+]

@@ -1,0 +1,1890 @@
+2025-04-30 09:17:18,259 - INFO - Joc ini\u021bializat
+2025-04-30 09:17:18,260 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-04-30 09:17:18,260 - INFO - Scoruri înc\u0103rcate: 7 intr\u0103ri
+2025-04-30 09:17:18,260 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:17:20,492 - INFO - Ultimul login înc\u0103rcat: roberta
+2025-04-30 09:17:20,567 - INFO - Ecran de login creat
+2025-04-30 09:17:28,858 - INFO - Parol\u0103 hash-uit\u0103
+2025-04-30 09:17:28,860 - WARNING - Login e\u0219uat pentru utilizator: roberta
+2025-04-30 09:17:52,178 - INFO - Parol\u0103 hash-uit\u0103
+2025-04-30 09:17:52,198 - INFO - Utilizatori salva\u021bi: 
+2025-04-30 09:17:52,199 - INFO - Utilizator înregistrat: dalia44
+2025-04-30 09:17:53,803 - INFO - Parol\u0103 hash-uit\u0103
+2025-04-30 09:17:53,804 - INFO - Ultimul login salvat: dalia44
+2025-04-30 09:17:53,822 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:17:54,076 - INFO - Meniu principal creat
+2025-04-30 09:17:54,076 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-04-30 09:17:58,213 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:17:58,246 - INFO - Scoruri afi\u0219ate: toate
+2025-04-30 09:18:03,701 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:18:03,728 - INFO - Scoruri afi\u0219ate: doar pentru juc\u0103tor
+2025-04-30 09:18:05,407 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:18:05,424 - INFO - Meniu principal creat
+2025-04-30 09:18:39,755 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/general_mediu.txt
+2025-04-30 09:18:39,756 - INFO - Selectate 10 întreb\u0103ri pentru joc
+2025-04-30 09:18:39,782 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:18:39,869 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-04-30 09:18:39,870 - INFO - Joc început: general, mediu, 10 întreb\u0103ri
+2025-04-30 09:18:46,977 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:18:47,002 - INFO - Ecran întrebare afi\u0219at: Întrebarea 2
+2025-04-30 09:18:47,002 - INFO - Întrebare s\u0103rit\u0103: Ce element chimic este folosit în baterii?
+2025-04-30 09:18:51,854 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:18:51,885 - INFO - Ecran întrebare afi\u0219at: Întrebarea 3
+2025-04-30 09:18:51,885 - INFO - Întrebare s\u0103rit\u0103: Ce animal este simbolul Canadei?
+2025-04-30 09:18:56,680 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:18:56,706 - INFO - Ecran întrebare afi\u0219at: Întrebarea 4
+2025-04-30 09:18:56,707 - INFO - Întrebare s\u0103rit\u0103: Ce scriitor a scris „Divina Comedie”?
+2025-04-30 09:19:08,409 - WARNING - Încercare de a s\u0103ri întrebare f\u0103r\u0103 hinturi disponibile
+2025-04-30 09:19:09,679 - INFO - R\u0103spuns utilizator: tobele, R\u0103spuns corect: djembe
+2025-04-30 09:19:10,358 - INFO - R\u0103spuns gre\u0219it: Ce instrument muzical este asociat cu muzica tradi\u021bional\u0103 african\u0103?, R\u0103spuns dat: tobele
+2025-04-30 09:19:10,370 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:19:10,389 - INFO - Ecran întrebare afi\u0219at: Întrebarea 5
+2025-04-30 09:55:23,799 - INFO - Joc ini\u021bializat
+2025-04-30 09:55:23,800 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-04-30 09:55:23,800 - INFO - Scoruri înc\u0103rcate: 7 intr\u0103ri
+2025-04-30 09:55:23,800 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:55:24,578 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-04-30 09:55:24,637 - INFO - Ecran de login creat
+2025-04-30 09:55:34,328 - INFO - Parol\u0103 hash-uit\u0103
+2025-04-30 09:55:34,329 - INFO - Ultimul login salvat: dalia44
+2025-04-30 09:55:34,340 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:55:34,671 - INFO - Meniu principal creat
+2025-04-30 09:55:34,671 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-04-30 09:55:49,647 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:55:49,718 - INFO - Meniu de categorii creat
+2025-04-30 09:55:55,361 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:55:55,379 - INFO - Meniu principal creat
+2025-04-30 09:55:56,416 - INFO - Categorie setat\u0103: general
+2025-04-30 09:55:57,666 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:55:57,721 - INFO - Meniu de dificultate creat
+2025-04-30 09:55:59,708 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:55:59,723 - INFO - Meniu principal creat
+2025-04-30 09:56:00,763 - INFO - Dificultate setat\u0103: u\u0219or
+2025-04-30 09:56:01,899 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:56:01,918 - INFO - Meniu pentru setarea num\u0103rului de întreb\u0103ri creat
+2025-04-30 09:56:04,949 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:56:04,965 - INFO - Meniu principal creat
+2025-04-30 09:56:06,004 - INFO - Num\u0103r de întreb\u0103ri setat: 5
+2025-04-30 09:56:09,294 - INFO - Înc\u0103rcate 99 întreb\u0103ri din categories/general_u\u0219or.txt
+2025-04-30 09:56:09,295 - INFO - Selectate 5 întreb\u0103ri pentru joc
+2025-04-30 09:56:09,312 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:56:09,409 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-04-30 09:56:09,409 - INFO - Joc început: general, u\u0219or, 5 întreb\u0103ri
+2025-04-30 09:56:18,716 - INFO - R\u0103spuns utilizator: un cerc, R\u0103spuns corect: o forma geometrica
+2025-04-30 09:56:21,664 - INFO - R\u0103spuns gre\u0219it: Ce este un cerc?, R\u0103spuns dat: un cerc
+2025-04-30 09:56:21,690 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:56:21,715 - INFO - Ecran întrebare afi\u0219at: Întrebarea 2
+2025-04-30 09:56:41,333 - INFO - R\u0103spuns utilizator: ghiocel, R\u0103spuns corect: ghiocei
+2025-04-30 09:56:44,303 - INFO - R\u0103spuns gre\u0219it: Ce floare este asociat\u0103 cu prim\u0103vara \u0219i iepura\u0219ul de Pa\u0219te?, R\u0103spuns dat: ghiocel
+2025-04-30 09:56:44,324 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:56:44,346 - INFO - Ecran întrebare afi\u0219at: Întrebarea 3
+2025-04-30 09:56:54,032 - INFO - R\u0103spuns utilizator: o forma geometrica, R\u0103spuns corect: o forma geometrica
+2025-04-30 09:56:56,319 - INFO - R\u0103spuns corect: Ce este un cub?, XP câ\u0219tigat: 10
+2025-04-30 09:56:56,346 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:56:56,373 - INFO - Ecran întrebare afi\u0219at: Întrebarea 4
+2025-04-30 09:57:03,733 - INFO - R\u0103spuns utilizator: spania, R\u0103spuns corect: lisabona
+2025-04-30 09:57:05,582 - INFO - R\u0103spuns gre\u0219it: Ce ora\u0219 este capitala Portugaliei?, R\u0103spuns dat: spania
+2025-04-30 09:57:05,599 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:57:05,627 - INFO - Ecran întrebare afi\u0219at: Întrebarea 5
+2025-04-30 09:57:11,527 - INFO - Hint utilizat: tip 1 pentru întrebarea Ce animal este faimos pentru petele sale?
+2025-04-30 09:57:21,008 - INFO - R\u0103spuns utilizator: leopard, R\u0103spuns corect: leopard
+2025-04-30 09:57:21,885 - INFO - R\u0103spuns corect: Ce animal este faimos pentru petele sale?, XP câ\u0219tigat: 10
+2025-04-30 09:57:21,887 - INFO - Scor salvat: {'name': 'dalia44', 'score': 2, 'date': '2025-04-30 09:57', 'category': 'general', 'difficulty': 'u\u0219or', 'questions': 5, 'time': 72.59, 'hints_used': 1}
+2025-04-30 09:57:21,888 - INFO - Utilizatori salva\u021bi: dalia44
+2025-04-30 09:57:24,529 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:57:24,550 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-04-30 09:57:24,550 - INFO - Revizuire r\u0103spunsuri gre\u0219ite început\u0103
+2025-04-30 09:57:24,550 - INFO - Joc terminat, trecere la revizuirea r\u0103spunsurilor gre\u0219ite
+2025-04-30 09:57:27,026 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:57:27,045 - INFO - Meniu principal creat
+2025-04-30 09:57:28,646 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:57:28,675 - INFO - Scoruri afi\u0219ate: toate
+2025-04-30 09:57:42,773 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 09:57:42,802 - INFO - Scoruri afi\u0219ate: doar pentru juc\u0103tor
+2025-04-30 10:00:22,531 - INFO - Joc ini\u021bializat
+2025-04-30 10:00:22,532 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-04-30 10:00:22,532 - INFO - Scoruri înc\u0103rcate: 8 intr\u0103ri
+2025-04-30 10:00:22,533 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:00:23,388 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-04-30 10:00:23,458 - INFO - Ecran de login creat
+2025-04-30 10:00:27,975 - INFO - Parol\u0103 hash-uit\u0103
+2025-04-30 10:00:27,976 - INFO - Ultimul login salvat: dalia44
+2025-04-30 10:00:28,000 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:00:28,309 - INFO - Meniu principal creat
+2025-04-30 10:00:28,309 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-04-30 10:00:35,283 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:00:35,334 - INFO - Statistici afi\u0219ate pentru juc\u0103tor: dalia44
+2025-04-30 10:00:41,473 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:00:41,491 - INFO - Meniu principal creat
+2025-04-30 10:00:50,377 - INFO - Joc ini\u021bializat
+2025-04-30 10:00:50,377 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-04-30 10:00:50,378 - INFO - Scoruri înc\u0103rcate: 8 intr\u0103ri
+2025-04-30 10:00:50,378 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:00:51,248 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-04-30 10:00:51,323 - INFO - Ecran de login creat
+2025-04-30 10:01:00,300 - INFO - Parol\u0103 hash-uit\u0103
+2025-04-30 10:01:00,302 - INFO - Utilizatori salva\u021bi: 
+2025-04-30 10:01:00,304 - INFO - Utilizator înregistrat: user
+2025-04-30 10:01:01,672 - INFO - Parol\u0103 hash-uit\u0103
+2025-04-30 10:01:01,673 - INFO - Ultimul login salvat: user
+2025-04-30 10:01:01,681 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:01:01,943 - INFO - Meniu principal creat
+2025-04-30 10:01:01,944 - INFO - Login reu\u0219it pentru utilizator: user
+2025-04-30 10:01:03,788 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:01:03,798 - INFO - Statistici afi\u0219ate pentru juc\u0103tor: user
+2025-04-30 10:01:06,576 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:01:06,591 - INFO - Meniu principal creat
+2025-04-30 10:01:08,144 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/general_mediu.txt
+2025-04-30 10:01:08,144 - INFO - Selectate 10 întreb\u0103ri pentru joc
+2025-04-30 10:01:08,159 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:01:08,325 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-04-30 10:01:08,325 - INFO - Joc început: general, mediu, 10 întreb\u0103ri
+2025-04-30 10:01:14,190 - INFO - R\u0103spuns utilizator: termometru, R\u0103spuns corect: termometru
+2025-04-30 10:01:14,790 - INFO - R\u0103spuns corect: Ce instrument este folosit pentru a m\u0103sura temperatura?, XP câ\u0219tigat: 15
+2025-04-30 10:01:14,807 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:01:14,826 - INFO - Ecran întrebare afi\u0219at: Întrebarea 2
+2025-04-30 10:01:20,857 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:01:20,879 - INFO - Ecran întrebare afi\u0219at: Întrebarea 3
+2025-04-30 10:01:20,879 - INFO - Întrebare s\u0103rit\u0103: Ce animal este simbolul Japoniei?
+2025-04-30 10:01:30,996 - INFO - Hint utilizat: tip 1 pentru întrebarea Ce fruct este cunoscut ca „fructul dragonului”?
+2025-04-30 10:01:36,516 - INFO - Hint utilizat: tip 2 pentru întrebarea Ce fruct este cunoscut ca „fructul dragonului”?
+2025-04-30 10:01:41,934 - INFO - R\u0103spuns utilizator: pita, R\u0103spuns corect: pitaya
+2025-04-30 10:01:42,827 - INFO - R\u0103spuns gre\u0219it: Ce fruct este cunoscut ca „fructul dragonului”?, R\u0103spuns dat: pita
+2025-04-30 10:01:42,845 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:01:42,872 - INFO - Ecran întrebare afi\u0219at: Întrebarea 4
+2025-04-30 10:01:46,119 - INFO - R\u0103spuns utilizator: 24, R\u0103spuns corect: 24
+2025-04-30 10:01:47,090 - INFO - R\u0103spuns corect: Câte ore are o zi?, XP câ\u0219tigat: 15
+2025-04-30 10:01:47,107 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:01:47,137 - INFO - Ecran întrebare afi\u0219at: Întrebarea 5
+2025-04-30 10:01:52,387 - INFO - R\u0103spuns utilizator: as, R\u0103spuns corect: spaniola
+2025-04-30 10:01:53,185 - INFO - R\u0103spuns gre\u0219it: Ce limb\u0103 se vorbe\u0219te în Argentina?, R\u0103spuns dat: as
+2025-04-30 10:01:53,204 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:01:53,231 - INFO - Ecran întrebare afi\u0219at: Întrebarea 6
+2025-04-30 10:01:56,146 - INFO - R\u0103spuns utilizator: asa, R\u0103spuns corect: mark twain
+2025-04-30 10:01:57,083 - INFO - R\u0103spuns gre\u0219it: Ce scriitor a scris „Aventurile lui Tom Sawyer”?, R\u0103spuns dat: asa
+2025-04-30 10:01:57,097 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:01:57,115 - INFO - Ecran întrebare afi\u0219at: Întrebarea 7
+2025-04-30 10:01:59,085 - INFO - R\u0103spuns utilizator: ws, R\u0103spuns corect: vultur plesuv
+2025-04-30 10:01:59,731 - INFO - R\u0103spuns gre\u0219it: Ce animal este simbolul Statelor Unite?, R\u0103spuns dat: ws
+2025-04-30 10:01:59,746 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:01:59,765 - INFO - Ecran întrebare afi\u0219at: Întrebarea 8
+2025-04-30 10:02:00,851 - INFO - R\u0103spuns utilizator: aaa, R\u0103spuns corect: norvegiana
+2025-04-30 10:02:01,573 - INFO - R\u0103spuns gre\u0219it: Ce limb\u0103 se vorbe\u0219te în Norvegia?, R\u0103spuns dat: aaa
+2025-04-30 10:02:01,594 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:02:01,618 - INFO - Ecran întrebare afi\u0219at: Întrebarea 9
+2025-04-30 10:02:05,280 - INFO - R\u0103spuns utilizator: aaa, R\u0103spuns corect: crizantema
+2025-04-30 10:02:06,010 - INFO - R\u0103spuns gre\u0219it: Ce floare este asociat\u0103 cu luna noiembrie?, R\u0103spuns dat: aaa
+2025-04-30 10:02:06,027 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:02:06,052 - INFO - Ecran întrebare afi\u0219at: Întrebarea 10
+2025-04-30 10:02:10,614 - INFO - R\u0103spuns utilizator: saturn, R\u0103spuns corect: saturn
+2025-04-30 10:02:11,363 - INFO - R\u0103spuns corect: Ce planet\u0103 este cunoscut\u0103 pentru inelele sale?, XP câ\u0219tigat: 15
+2025-04-30 10:02:11,365 - INFO - Scor salvat: {'name': 'user', 'score': 3, 'date': '2025-04-30 10:02', 'category': 'general', 'difficulty': 'mediu', 'questions': 10, 'time': 63.22, 'hints_used': 3}
+2025-04-30 10:02:11,366 - INFO - Utilizatori salva\u021bi: user
+2025-04-30 10:02:12,528 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:02:12,555 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-04-30 10:02:12,556 - INFO - Trecere la întreb\u0103ri schimbate
+2025-04-30 10:02:14,711 - INFO - R\u0103spuns utilizator: aa, R\u0103spuns corect: carp koi
+2025-04-30 10:02:16,527 - INFO - R\u0103spuns gre\u0219it: Ce animal este simbolul Japoniei?, R\u0103spuns dat: aa
+2025-04-30 10:02:16,529 - INFO - Scor salvat: {'name': 'user', 'score': 3, 'date': '2025-04-30 10:02', 'category': 'general', 'difficulty': 'mediu', 'questions': 10, 'time': 68.38, 'hints_used': 3}
+2025-04-30 10:02:16,530 - INFO - Utilizatori salva\u021bi: user
+2025-04-30 10:02:17,689 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:02:17,719 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-04-30 10:02:17,719 - INFO - Revizuire r\u0103spunsuri gre\u0219ite început\u0103
+2025-04-30 10:02:17,719 - INFO - Joc terminat, trecere la revizuirea r\u0103spunsurilor gre\u0219ite
+2025-04-30 10:02:19,763 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:02:19,780 - INFO - Meniu principal creat
+2025-04-30 10:02:22,495 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:02:22,528 - INFO - Statistici afi\u0219ate pentru juc\u0103tor: user
+2025-04-30 10:02:26,707 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:02:26,723 - INFO - Meniu principal creat
+2025-04-30 10:02:32,651 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:02:32,682 - INFO - Scoruri afi\u0219ate: toate
+2025-04-30 10:02:38,493 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:02:38,511 - INFO - Meniu principal creat
+2025-04-30 10:02:41,672 - INFO - Joc ini\u021bializat
+2025-04-30 10:02:41,673 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-04-30 10:02:41,673 - INFO - Scoruri înc\u0103rcate: 10 intr\u0103ri
+2025-04-30 10:02:41,674 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:02:42,515 - INFO - Ultimul login înc\u0103rcat: user
+2025-04-30 10:02:42,582 - INFO - Ecran de login creat
+2025-04-30 10:02:50,651 - INFO - Parol\u0103 hash-uit\u0103
+2025-04-30 10:02:50,653 - INFO - Ultimul login salvat: dalia44
+2025-04-30 10:02:50,658 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:02:50,940 - INFO - Meniu principal creat
+2025-04-30 10:02:50,940 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-04-30 10:02:56,158 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:02:56,211 - INFO - Statistici afi\u0219ate pentru juc\u0103tor: dalia44
+2025-04-30 10:02:57,652 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:02:57,681 - INFO - Meniu principal creat
+2025-04-30 10:13:43,788 - INFO - Joc ini\u021bializat
+2025-04-30 10:13:44,539 - INFO - Sunete ini\u021bializate cu succes
+2025-04-30 10:13:44,540 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-04-30 10:13:44,540 - INFO - Scoruri înc\u0103rcate: 10 intr\u0103ri
+2025-04-30 10:13:44,541 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:13:45,210 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-04-30 10:13:45,278 - INFO - Ecran de login creat
+2025-04-30 10:13:55,598 - INFO - Parol\u0103 hash-uit\u0103
+2025-04-30 10:13:55,600 - INFO - Ultimul login salvat: dalia44
+2025-04-30 10:13:55,622 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:13:55,908 - INFO - Meniu principal creat
+2025-04-30 10:13:55,909 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-04-30 10:14:00,055 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/general_mediu.txt
+2025-04-30 10:14:00,056 - INFO - Selectate 10 întreb\u0103ri pentru joc
+2025-04-30 10:14:00,072 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:14:00,161 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-04-30 10:14:00,161 - INFO - Joc început: general, mediu, 10 întreb\u0103ri
+2025-04-30 10:14:06,660 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:14:06,690 - INFO - Ecran întrebare afi\u0219at: Întrebarea 2
+2025-04-30 10:14:06,690 - INFO - Întrebare s\u0103rit\u0103: Ce instrument muzical este asociat cu muzica reggae?
+2025-04-30 10:14:46,552 - INFO - R\u0103spuns utilizator: gladiole, R\u0103spuns corect: gladiola
+2025-04-30 10:14:49,621 - INFO - Sunet redat
+2025-04-30 10:14:49,622 - INFO - R\u0103spuns gre\u0219it: Ce floare este asociat\u0103 cu luna august?, R\u0103spuns dat: gladiole
+2025-04-30 10:14:49,654 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:14:49,680 - INFO - Ecran întrebare afi\u0219at: Întrebarea 3
+2025-04-30 10:15:07,810 - INFO - R\u0103spuns utilizator: marte, R\u0103spuns corect: marte
+2025-04-30 10:15:10,088 - INFO - Sunet redat
+2025-04-30 10:15:10,089 - INFO - R\u0103spuns corect: Ce planet\u0103 este a patra de la Soare?, XP câ\u0219tigat: 15
+2025-04-30 10:15:10,116 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:15:10,139 - INFO - Ecran întrebare afi\u0219at: Întrebarea 4
+2025-04-30 10:15:22,599 - INFO - R\u0103spuns utilizator: paianjen, R\u0103spuns corect: paianjen
+2025-04-30 10:15:23,801 - INFO - Sunet redat
+2025-04-30 10:15:23,801 - INFO - R\u0103spuns corect: Ce animal este faimos pentru pânza sa?, XP câ\u0219tigat: 15
+2025-04-30 10:15:23,830 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:15:23,861 - INFO - Ecran întrebare afi\u0219at: Întrebarea 5
+2025-04-30 10:15:33,727 - INFO - R\u0103spuns utilizator: grecia, R\u0103spuns corect: japonia
+2025-04-30 10:15:34,776 - INFO - Sunet redat
+2025-04-30 10:15:34,776 - INFO - R\u0103spuns gre\u0219it: Ce \u021bar\u0103 a g\u0103zduit Jocurile Olimpice din 2020?, R\u0103spuns dat: grecia
+2025-04-30 10:15:34,805 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:15:34,832 - INFO - Ecran întrebare afi\u0219at: Întrebarea 6
+2025-04-30 10:15:39,886 - INFO - Sunet redat
+2025-04-30 10:15:39,886 - INFO - Hint utilizat: tip 1 pentru întrebarea Ce scriitor a creat personajul Sherlock Holmes?
+2025-04-30 10:15:41,841 - INFO - Sunet redat
+2025-04-30 10:15:41,841 - INFO - Hint utilizat: tip 2 pentru întrebarea Ce scriitor a creat personajul Sherlock Holmes?
+2025-04-30 10:15:49,050 - WARNING - Încercare de a s\u0103ri întrebare f\u0103r\u0103 hinturi disponibile
+2025-04-30 10:15:51,255 - WARNING - Încercare de a s\u0103ri întrebare f\u0103r\u0103 hinturi disponibile
+2025-04-30 10:15:53,704 - INFO - R\u0103spuns utilizator: sa, R\u0103spuns corect: arthur conan doyle
+2025-04-30 10:15:55,214 - INFO - Sunet redat
+2025-04-30 10:15:55,214 - INFO - R\u0103spuns gre\u0219it: Ce scriitor a creat personajul Sherlock Holmes?, R\u0103spuns dat: sa
+2025-04-30 10:15:55,242 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:15:55,265 - INFO - Ecran întrebare afi\u0219at: Întrebarea 7
+2025-04-30 10:16:00,152 - INFO - R\u0103spuns utilizator: pluto, R\u0103spuns corect: venus
+2025-04-30 10:16:01,008 - INFO - Sunet redat
+2025-04-30 10:16:01,008 - INFO - R\u0103spuns gre\u0219it: Ce planet\u0103 este a doua de la Soare?, R\u0103spuns dat: pluto
+2025-04-30 10:16:01,039 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:16:01,066 - INFO - Ecran întrebare afi\u0219at: Întrebarea 8
+2025-04-30 10:16:05,444 - WARNING - Încercare de a s\u0103ri întrebare f\u0103r\u0103 hinturi disponibile
+2025-04-30 10:16:26,299 - INFO - Joc ini\u021bializat
+2025-04-30 10:16:27,008 - INFO - Sunete ini\u021bializate cu succes
+2025-04-30 10:16:27,009 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-04-30 10:16:27,009 - INFO - Scoruri înc\u0103rcate: 10 intr\u0103ri
+2025-04-30 10:16:27,009 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:16:27,642 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-04-30 10:16:27,707 - INFO - Ecran de login creat
+2025-04-30 10:16:35,078 - INFO - Parol\u0103 hash-uit\u0103
+2025-04-30 10:16:35,079 - INFO - Ultimul login salvat: dalia44
+2025-04-30 10:16:35,103 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:16:35,394 - INFO - Meniu principal creat
+2025-04-30 10:16:35,394 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-04-30 10:16:38,314 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:16:38,355 - INFO - Statistici afi\u0219ate pentru juc\u0103tor: dalia44
+2025-04-30 10:16:39,288 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:16:39,304 - INFO - Meniu principal creat
+2025-04-30 10:16:41,943 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:16:41,973 - INFO - Scoruri afi\u0219ate: toate
+2025-04-30 10:16:45,172 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:16:45,188 - INFO - Meniu principal creat
+2025-04-30 10:23:40,937 - INFO - Joc ini\u021bializat
+2025-04-30 10:23:41,663 - INFO - Sunete ini\u021bializate cu succes
+2025-04-30 10:23:41,664 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-04-30 10:23:41,664 - INFO - Scoruri înc\u0103rcate: 10 intr\u0103ri
+2025-04-30 10:23:41,665 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:23:42,327 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-04-30 10:23:42,392 - INFO - Ecran de login creat
+2025-04-30 10:23:47,083 - INFO - Parol\u0103 hash-uit\u0103
+2025-04-30 10:23:47,084 - INFO - Ultimul login salvat: dalia44
+2025-04-30 10:23:47,104 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:23:47,398 - INFO - Meniu principal creat
+2025-04-30 10:23:47,399 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-04-30 10:23:50,264 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/general_mediu.txt
+2025-04-30 10:23:50,264 - INFO - Selectate 10 întreb\u0103ri pentru joc
+2025-04-30 10:23:50,284 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:23:50,373 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-04-30 10:23:50,373 - INFO - Joc început: general, mediu, 10 întreb\u0103ri
+2025-04-30 10:24:02,079 - INFO - R\u0103spuns utilizator: suedeza, R\u0103spuns corect: suedeza
+2025-04-30 10:24:03,285 - INFO - Sunet redat
+2025-04-30 10:24:03,285 - INFO - R\u0103spuns corect: Ce limb\u0103 se vorbe\u0219te în Suedia?, XP câ\u0219tigat: 15
+2025-04-30 10:24:03,308 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:24:03,327 - INFO - Ecran întrebare afi\u0219at: Întrebarea 2
+2025-04-30 10:24:11,348 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 10:24:11,369 - INFO - Meniu principal creat
+2025-04-30 10:24:15,472 - INFO - Utilizatori salva\u021bi: dalia44
+2025-04-30 10:24:15,504 - INFO - Joc închis de utilizator
+2025-04-30 13:32:01,504 - INFO - Joc ini\u021bializat
+2025-04-30 13:32:02,236 - INFO - Sunete ini\u021bializate cu succes
+2025-04-30 13:32:02,238 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-04-30 13:32:02,248 - INFO - Scoruri înc\u0103rcate: 10 intr\u0103ri
+2025-04-30 13:32:02,248 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 13:32:03,372 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-04-30 13:32:03,445 - INFO - Ecran de login creat
+2025-04-30 13:32:13,956 - INFO - Parol\u0103 hash-uit\u0103
+2025-04-30 13:32:13,957 - INFO - Ultimul login salvat: dalia44
+2025-04-30 13:32:13,977 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 13:32:14,268 - INFO - Meniu principal creat
+2025-04-30 13:32:14,268 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-04-30 13:32:34,411 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/general_mediu.txt
+2025-04-30 13:32:34,412 - INFO - Selectate 10 întreb\u0103ri pentru joc
+2025-04-30 13:32:34,423 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 13:32:34,512 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-04-30 13:32:34,513 - INFO - Joc început: general, mediu, 10 întreb\u0103ri
+2025-04-30 13:32:49,592 - INFO - Sunet redat
+2025-04-30 13:32:49,592 - INFO - Hint utilizat: tip 1 pentru întrebarea Ce scriitor a scris „Frumoasa adormit\u0103”?
+2025-04-30 13:33:34,331 - INFO - R\u0103spuns utilizator: charles perrlaut, R\u0103spuns corect: charles perrault
+2025-04-30 13:33:37,391 - INFO - Sunet redat
+2025-04-30 13:33:37,391 - INFO - R\u0103spuns gre\u0219it: Ce scriitor a scris „Frumoasa adormit\u0103”?, R\u0103spuns dat: Charles Perrlaut
+2025-04-30 13:33:37,404 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 13:33:37,429 - INFO - Ecran întrebare afi\u0219at: Întrebarea 2
+2025-04-30 13:33:52,042 - INFO - R\u0103spuns utilizator: vaca, R\u0103spuns corect: tigru
+2025-04-30 13:33:54,875 - INFO - Sunet redat
+2025-04-30 13:33:54,875 - INFO - R\u0103spuns gre\u0219it: Ce animal este simbolul Indiei?, R\u0103spuns dat: Vaca
+2025-04-30 13:33:54,890 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 13:33:54,913 - INFO - Ecran întrebare afi\u0219at: Întrebarea 3
+2025-04-30 13:34:17,906 - INFO - Sunet redat
+2025-04-30 13:34:17,906 - INFO - Hint utilizat: tip 1 pentru întrebarea Ce \u021bar\u0103 a g\u0103zduit Jocurile Olimpice din 2004?
+2025-04-30 13:34:28,471 - INFO - R\u0103spuns utilizator: grecia, R\u0103spuns corect: grecia
+2025-04-30 13:34:30,685 - INFO - Sunet redat
+2025-04-30 13:34:30,685 - INFO - R\u0103spuns corect: Ce \u021bar\u0103 a g\u0103zduit Jocurile Olimpice din 2004?, XP câ\u0219tigat: 15
+2025-04-30 13:34:30,698 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 13:34:30,721 - INFO - Ecran întrebare afi\u0219at: Întrebarea 4
+2025-04-30 13:34:41,601 - INFO - R\u0103spuns utilizator: daneza, R\u0103spuns corect: daneza
+2025-04-30 13:34:43,341 - INFO - Sunet redat
+2025-04-30 13:34:43,341 - INFO - R\u0103spuns corect: Ce limb\u0103 se vorbe\u0219te în Danemarca?, XP câ\u0219tigat: 15
+2025-04-30 13:34:43,354 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 13:34:43,383 - INFO - Ecran întrebare afi\u0219at: Întrebarea 5
+2025-04-30 13:34:57,162 - INFO - R\u0103spuns utilizator: portugheza, R\u0103spuns corect: portugheza
+2025-04-30 13:34:59,591 - INFO - Sunet redat
+2025-04-30 13:34:59,591 - INFO - R\u0103spuns corect: Ce limb\u0103 se vorbe\u0219te în Portugalia?, XP câ\u0219tigat: 15
+2025-04-30 13:34:59,621 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 13:34:59,642 - INFO - Ecran întrebare afi\u0219at: Întrebarea 6
+2025-04-30 13:35:15,880 - INFO - R\u0103spuns utilizator: termometru, R\u0103spuns corect: termometru
+2025-04-30 13:35:17,725 - INFO - Sunet redat
+2025-04-30 13:35:17,726 - INFO - R\u0103spuns corect: Ce instrument este folosit pentru a m\u0103sura temperatura?, XP câ\u0219tigat: 15
+2025-04-30 13:35:17,750 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 13:35:17,778 - INFO - Ecran întrebare afi\u0219at: Întrebarea 7
+2025-04-30 13:35:29,700 - INFO - Sunet redat
+2025-04-30 13:35:29,701 - INFO - Hint utilizat: tip 1 pentru întrebarea Ce \u021bar\u0103 a g\u0103zduit Jocurile Olimpice din 1992?
+2025-04-30 13:35:49,751 - INFO - R\u0103spuns utilizator: spania, R\u0103spuns corect: spania
+2025-04-30 13:35:51,052 - INFO - Sunet redat
+2025-04-30 13:35:58,892 - INFO - Utilizatori salva\u021bi: dalia44
+2025-04-30 13:35:58,892 - INFO - R\u0103spuns corect: Ce \u021bar\u0103 a g\u0103zduit Jocurile Olimpice din 1992?, XP câ\u0219tigat: 15
+2025-04-30 13:35:58,906 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 13:35:58,930 - INFO - Ecran întrebare afi\u0219at: Întrebarea 8
+2025-04-30 13:36:11,373 - INFO - R\u0103spuns utilizator: oxigen, R\u0103spuns corect: oxigen
+2025-04-30 13:36:14,078 - INFO - Sunet redat
+2025-04-30 13:36:14,078 - INFO - R\u0103spuns corect: Ce element chimic are simbolul „O”?, XP câ\u0219tigat: 15
+2025-04-30 13:36:14,105 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 13:36:14,134 - INFO - Ecran întrebare afi\u0219at: Întrebarea 9
+2025-04-30 13:36:30,668 - INFO - R\u0103spuns utilizator: 20, R\u0103spuns corect: 27
+2025-04-30 13:36:30,841 - INFO - Sunet redat
+2025-04-30 13:36:30,842 - INFO - R\u0103spuns gre\u0219it: Câte \u021b\u0103ri sunt în Uniunea European\u0103 (2025)?, R\u0103spuns dat: 20
+2025-04-30 13:36:30,855 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 13:36:30,885 - INFO - Ecran întrebare afi\u0219at: Întrebarea 10
+2025-04-30 13:36:50,451 - INFO - Sunet redat
+2025-04-30 13:36:50,452 - INFO - Hint utilizat: tip 1 pentru întrebarea Ce planet\u0103 este a opta de la Soare?
+2025-04-30 13:36:58,029 - INFO - R\u0103spuns utilizator: neptun, R\u0103spuns corect: neptun
+2025-04-30 13:36:59,937 - INFO - Sunet redat
+2025-04-30 13:36:59,938 - INFO - R\u0103spuns corect: Ce planet\u0103 este a opta de la Soare?, XP câ\u0219tigat: 15
+2025-04-30 13:36:59,939 - INFO - Scor salvat: {'name': 'dalia44', 'score': 7, 'date': '2025-04-30 13:36', 'category': 'general', 'difficulty': 'mediu', 'questions': 10, 'time': 265.53, 'hints_used': 4}
+2025-04-30 13:36:59,940 - INFO - Utilizatori salva\u021bi: dalia44
+2025-04-30 13:36:59,941 - INFO - Sunet redat
+2025-04-30 13:37:10,698 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 13:37:10,720 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-04-30 13:37:10,721 - INFO - Revizuire r\u0103spunsuri gre\u0219ite început\u0103
+2025-04-30 13:37:10,721 - INFO - Joc terminat, trecere la revizuirea r\u0103spunsurilor gre\u0219ite
+2025-04-30 13:37:37,560 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 13:37:37,577 - INFO - Meniu principal creat
+2025-04-30 13:37:39,380 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 13:37:39,430 - INFO - Statistici afi\u0219ate pentru juc\u0103tor: dalia44
+2025-04-30 13:37:48,013 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 13:37:48,032 - INFO - Meniu principal creat
+2025-04-30 13:37:49,292 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 13:37:49,323 - INFO - Scoruri afi\u0219ate: toate
+2025-04-30 13:37:56,161 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 13:37:56,211 - INFO - Scoruri afi\u0219ate: doar pentru juc\u0103tor
+2025-04-30 13:37:59,425 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 13:37:59,442 - INFO - Meniu principal creat
+2025-04-30 13:38:03,721 - INFO - Selectate 100 întreb\u0103ri pentru joc
+2025-04-30 13:38:03,731 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 13:38:03,752 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-04-30 13:38:03,752 - INFO - Joc început: general, mediu, 10 întreb\u0103ri
+2025-04-30 13:38:03,752 - INFO - Fast quiz început cu durata: 300 secunde
+2025-04-30 13:38:06,245 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 13:38:06,261 - INFO - Meniu principal creat
+2025-04-30 18:02:11,455 - INFO - Joc ini\u021bializat
+2025-04-30 18:02:12,102 - INFO - Sunete ini\u021bializate cu succes
+2025-04-30 18:02:12,103 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-04-30 18:02:12,103 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-04-30 18:02:12,103 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 18:02:12,766 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-04-30 18:02:12,831 - INFO - Ecran de login creat
+2025-04-30 18:02:17,381 - INFO - Parol\u0103 hash-uit\u0103
+2025-04-30 18:02:17,382 - INFO - Ultimul login salvat: dalia44
+2025-04-30 18:02:17,398 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 18:02:17,676 - INFO - Meniu principal creat
+2025-04-30 18:02:17,676 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-04-30 18:02:22,164 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/general_mediu.txt
+2025-04-30 18:02:22,164 - INFO - Selectate 10 întreb\u0103ri pentru joc
+2025-04-30 18:02:22,183 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 18:02:22,276 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-04-30 18:02:22,276 - INFO - Joc început: general, mediu, 10 întreb\u0103ri
+2025-04-30 18:02:27,511 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-04-30 18:02:27,527 - INFO - Meniu principal creat
+2025-04-30 18:02:35,847 - INFO - Utilizatori salva\u021bi: dalia44
+2025-04-30 18:02:35,880 - INFO - Joc închis de utilizator
+2025-05-07 09:18:07,849 - INFO - Joc initializat
+2025-05-07 09:18:08,715 - ERROR - Eroare la initializarea sunetelor/muzicii: not a file object
+2025-05-07 09:18:24,378 - INFO - Utilizatori incarcati cu succes
+2025-05-07 09:18:24,392 - INFO - Scoruri incarcate cu succes
+2025-05-07 09:18:24,393 - INFO - Interfata curatata
+2025-05-07 09:18:25,577 - INFO - Ultimul login incarcat: dalia44
+2025-05-07 09:18:25,688 - INFO - Ecran de login creat
+2025-05-07 09:18:34,204 - WARNING - Incercare de login cu campuri goale
+2025-05-07 09:18:40,486 - WARNING - Incercare de inregistrare cu campuri goale
+2025-05-07 09:18:43,612 - INFO - Utilizatori salvati: 
+2025-05-07 09:18:43,647 - INFO - Joc inchis de utilizator
+2025-05-07 09:18:50,550 - INFO - Joc initializat
+2025-05-07 09:18:51,396 - ERROR - Eroare la initializarea sunetelor/muzicii: not a file object
+2025-05-07 09:18:53,221 - INFO - Utilizatori incarcati cu succes
+2025-05-07 09:18:53,222 - INFO - Scoruri incarcate cu succes
+2025-05-07 09:18:53,222 - INFO - Interfata curatata
+2025-05-07 09:18:53,790 - INFO - Ultimul login incarcat: dalia44
+2025-05-07 09:18:53,856 - INFO - Ecran de login creat
+2025-05-07 09:18:58,997 - INFO - Utilizatori salvati: 
+2025-05-07 09:18:59,027 - INFO - Joc inchis de utilizator
+2025-05-07 09:21:12,939 - INFO - Joc ini\u021bializat
+2025-05-07 09:21:13,913 - INFO - Sunete ini\u021bializate cu succes
+2025-05-07 09:21:13,914 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-07 09:21:13,915 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-07 09:21:13,915 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 09:21:14,987 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-07 09:21:15,094 - INFO - Ecran de login creat
+2025-05-07 09:21:21,507 - INFO - Joc ini\u021bializat
+2025-05-07 09:21:22,233 - INFO - Sunete ini\u021bializate cu succes
+2025-05-07 09:21:22,233 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-07 09:21:22,234 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-07 09:21:22,234 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 09:21:22,940 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-07 09:21:23,017 - INFO - Ecran de login creat
+2025-05-07 09:21:30,239 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-07 09:21:30,240 - INFO - Ultimul login salvat: dalia44
+2025-05-07 09:21:30,258 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 09:21:30,656 - INFO - Meniu principal creat
+2025-05-07 09:21:30,656 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-07 09:21:37,590 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 09:21:37,668 - INFO - Statistici afi\u0219ate pentru juc\u0103tor: dalia44
+2025-05-07 09:21:38,792 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 09:21:38,810 - INFO - Meniu principal creat
+2025-05-07 09:21:43,469 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-07 09:21:43,528 - INFO - Joc închis de utilizator
+2025-05-07 09:42:53,106 - INFO - Joc ini\u021bializat
+2025-05-07 09:42:53,810 - INFO - Sunete ini\u021bializate cu succes
+2025-05-07 09:42:53,811 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-07 09:42:53,811 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-07 09:42:53,812 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 09:42:59,352 - INFO - Joc ini\u021bializat
+2025-05-07 09:43:00,021 - INFO - Sunete ini\u021bializate cu succes
+2025-05-07 09:43:00,026 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-07 09:43:00,027 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-07 09:43:00,027 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 09:43:05,058 - INFO - Joc ini\u021bializat
+2025-05-07 09:43:05,738 - INFO - Sunete ini\u021bializate cu succes
+2025-05-07 09:43:05,738 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-07 09:43:05,739 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-07 09:43:05,739 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 09:43:08,671 - INFO - Joc ini\u021bializat
+2025-05-07 09:43:09,482 - INFO - Sunete ini\u021bializate cu succes
+2025-05-07 09:43:09,483 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-07 09:43:09,483 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-07 09:43:09,483 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 09:50:40,063 - INFO - Joc ini\u021bializat
+2025-05-07 09:50:40,785 - INFO - Sunete ini\u021bializate cu succes
+2025-05-07 09:50:40,786 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-07 09:50:40,787 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-07 09:50:40,787 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 09:59:24,618 - INFO - Joc ini\u021bializat
+2025-05-07 09:59:25,372 - INFO - Sunete ini\u021bializate cu succes
+2025-05-07 09:59:25,373 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-07 09:59:25,374 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-07 09:59:25,374 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 09:59:25,380 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-07 09:59:25,383 - INFO - Ecran de login creat
+2025-05-07 09:59:30,675 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-07 09:59:30,677 - INFO - Ultimul login salvat: dalia44
+2025-05-07 09:59:30,696 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 09:59:30,705 - INFO - Meniu principal creat
+2025-05-07 09:59:30,705 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-07 09:59:38,023 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/general_mediu.txt
+2025-05-07 09:59:38,023 - INFO - Selectate 10 întreb\u0103ri pentru joc
+2025-05-07 09:59:38,051 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 09:59:38,062 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-07 09:59:38,062 - INFO - Joc început: general, mediu, 10 întreb\u0103ri
+2025-05-07 09:59:49,486 - INFO - Sunet redat
+2025-05-07 09:59:49,486 - INFO - Hint used: type 1 for question Câte ore are o zi?
+2025-05-07 09:59:52,665 - INFO - Sunet redat
+2025-05-07 09:59:52,665 - INFO - Hint used: type 1 for question Câte ore are o zi?
+2025-05-07 09:59:56,734 - INFO - User answer: 24, Correct answer: 24
+2025-05-07 09:59:58,461 - INFO - Sunet redat
+2025-05-07 09:59:58,462 - INFO - Correct answer: Câte ore are o zi?, XP earned: 15
+2025-05-07 09:59:58,484 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 09:59:58,493 - INFO - Ecran întrebare afi\u0219at: Întrebarea 2
+2025-05-07 10:00:09,705 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-07 10:00:09,755 - INFO - Joc închis de utilizator
+2025-05-07 12:16:58,835 - INFO - Joc ini\u021bializat
+2025-05-07 12:16:59,585 - INFO - Sunete ini\u021bializate cu succes
+2025-05-07 12:16:59,586 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-07 12:16:59,587 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-07 12:16:59,587 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 12:16:59,593 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-07 12:16:59,596 - INFO - Ecran de login creat
+2025-05-07 12:17:05,428 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-07 12:17:05,429 - INFO - Ultimul login salvat: dalia44
+2025-05-07 12:17:05,455 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 12:17:05,461 - INFO - Meniu principal creat
+2025-05-07 12:17:05,461 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-07 12:17:13,716 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-07 12:17:13,749 - INFO - Joc închis de utilizator
+2025-05-07 12:22:22,423 - INFO - Joc ini\u021bializat
+2025-05-07 12:22:23,180 - INFO - Sunete ini\u021bializate cu succes
+2025-05-07 12:22:23,181 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-07 12:22:23,182 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-07 12:22:23,182 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 12:22:23,189 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-07 12:22:23,193 - INFO - Ecran de login creat
+2025-05-07 12:22:27,098 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-07 12:22:27,099 - INFO - Ultimul login salvat: dalia44
+2025-05-07 12:22:27,111 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 12:22:27,118 - INFO - Meniu principal creat
+2025-05-07 12:22:27,118 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-07 12:22:30,666 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 12:22:30,671 - INFO - Meniu de categorii creat
+2025-05-07 12:22:32,585 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 12:22:32,591 - INFO - Meniu principal creat
+2025-05-07 12:22:36,683 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/general_mediu.txt
+2025-05-07 12:22:36,683 - INFO - Selectate 100 întreb\u0103ri pentru joc
+2025-05-07 12:22:36,711 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 12:22:36,719 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-07 12:22:36,719 - INFO - Joc început: general, mediu, 10 întreb\u0103ri
+2025-05-07 12:22:36,719 - INFO - Fast quiz început cu durata: 900 secunde
+2025-05-07 12:22:46,315 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 12:22:46,325 - INFO - Ecran întrebare afi\u0219at: Întrebarea 2
+2025-05-07 12:22:46,325 - INFO - Question skipped: Ce scriitor a creat personajul Sherlock Holmes?
+2025-05-07 12:22:49,511 - INFO - Sunet redat
+2025-05-07 12:22:49,512 - INFO - Hint used: type 1 for question Ce animal este faimos pentru construc\u021biile sale subacvatice?
+2025-05-07 12:23:11,880 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 12:23:11,887 - INFO - Meniu principal creat
+2025-05-07 12:23:13,329 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 12:23:13,333 - INFO - Meniu de categorii creat
+2025-05-07 12:23:14,760 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 12:23:14,766 - INFO - Meniu principal creat
+2025-05-07 12:23:15,792 - INFO - Categorie setat\u0103: \u021b\u0103ri_ora\u0219e
+2025-05-07 12:23:17,257 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 12:23:17,261 - INFO - Meniu de dificultate creat
+2025-05-07 12:23:18,712 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 12:23:18,719 - INFO - Meniu principal creat
+2025-05-07 12:23:20,173 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 12:23:20,179 - INFO - Meniu pentru setarea num\u0103rului de întreb\u0103ri creat
+2025-05-07 12:23:30,915 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 12:23:30,921 - INFO - Meniu principal creat
+2025-05-07 12:23:34,095 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 12:23:34,098 - INFO - Meniu pentru setarea num\u0103rului de întreb\u0103ri creat
+2025-05-07 12:23:34,458 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 12:23:34,464 - INFO - Meniu principal creat
+2025-05-07 12:23:35,498 - INFO - Num\u0103r de întreb\u0103ri setat: 10
+2025-05-07 12:23:35,535 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/\u021b\u0103ri_ora\u0219e_mediu.txt
+2025-05-07 12:23:35,535 - INFO - Selectate 100 întreb\u0103ri pentru joc
+2025-05-07 12:23:35,561 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 12:23:35,572 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-07 12:23:35,572 - INFO - Joc început: \u021b\u0103ri_ora\u0219e, mediu, 10 întreb\u0103ri
+2025-05-07 12:23:39,052 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-07 12:23:39,098 - INFO - Joc închis de utilizator
+2025-05-07 21:17:50,708 - INFO - Joc ini\u021bializat
+2025-05-07 21:17:51,197 - INFO - Sunete ini\u021bializate cu succes
+2025-05-07 21:17:51,198 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-07 21:17:51,199 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-07 21:17:51,199 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 21:17:51,204 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-07 21:17:51,205 - INFO - Ecran de login creat
+2025-05-07 21:17:56,823 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-07 21:17:56,823 - INFO - Ultimul login salvat: dalia44
+2025-05-07 21:17:56,829 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 21:17:56,833 - INFO - Meniu principal creat
+2025-05-07 21:17:56,833 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-07 21:18:01,180 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 21:18:01,182 - INFO - Highscores displayed: all
+2025-05-07 21:18:04,861 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 21:18:04,863 - INFO - Highscores displayed: player only
+2025-05-07 21:18:07,886 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 21:18:07,890 - INFO - Meniu principal creat
+2025-05-07 21:18:13,529 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/general_mediu.txt
+2025-05-07 21:18:13,529 - INFO - Selectate 100 întreb\u0103ri pentru joc
+2025-05-07 21:18:13,536 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 21:18:13,541 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-07 21:18:13,541 - INFO - Joc început: general, mediu, 10 întreb\u0103ri
+2025-05-07 21:18:13,541 - INFO - Fast quiz început cu durata: 900 secunde
+2025-05-07 21:18:19,742 - INFO - Sunet redat
+2025-05-07 21:18:19,742 - INFO - Hint used: type 1 for question Ce scriitor a scris „B\u0103trânul \u0219i marea”?
+2025-05-07 21:18:28,488 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 21:18:28,493 - INFO - Ecran întrebare afi\u0219at: Întrebarea 2
+2025-05-07 21:18:28,493 - INFO - Question skipped: Ce scriitor a scris „B\u0103trânul \u0219i marea”?
+2025-05-07 21:18:34,081 - INFO - User answer: pluto, Correct answer: neptun
+2025-05-07 21:18:35,058 - INFO - Sunet redat
+2025-05-07 21:18:35,058 - INFO - Incorrect answer: Ce planet\u0103 este a opta de la Soare?, Answer given: Pluto
+2025-05-07 21:18:35,064 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 21:18:35,070 - INFO - Ecran întrebare afi\u0219at: Întrebarea 3
+2025-05-07 21:18:38,463 - INFO - User answer: 20, Correct answer: 27
+2025-05-07 21:18:39,263 - INFO - Sunet redat
+2025-05-07 21:18:39,263 - INFO - Incorrect answer: Câte \u021b\u0103ri sunt în Uniunea European\u0103 (2025)?, Answer given: 20
+2025-05-07 21:18:39,269 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 21:18:39,274 - INFO - Ecran întrebare afi\u0219at: Întrebarea 4
+2025-05-07 21:18:48,060 - INFO - User answer: o, Correct answer: oxigen
+2025-05-07 21:18:48,996 - INFO - Sunet redat
+2025-05-07 21:18:48,996 - INFO - Incorrect answer: Ce element chimic are simbolul „O”?, Answer given: o
+2025-05-07 21:18:49,002 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 21:18:49,008 - INFO - Ecran întrebare afi\u0219at: Întrebarea 5
+2025-05-07 21:18:54,723 - INFO - User answer: lepardul, Correct answer: pisica
+2025-05-07 21:18:55,551 - INFO - Sunet redat
+2025-05-07 21:18:55,551 - INFO - Incorrect answer: Ce animal este simbolul Egiptului?, Answer given: lepardul
+2025-05-07 21:18:55,556 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 21:18:55,561 - INFO - Ecran întrebare afi\u0219at: Întrebarea 6
+2025-05-07 21:19:02,112 - INFO - User answer: norvegiana, Correct answer: norvegiana
+2025-05-07 21:19:03,189 - INFO - Sunet redat
+2025-05-07 21:19:03,189 - INFO - Correct answer: Ce limb\u0103 se vorbe\u0219te în Norvegia?, XP earned: 20
+2025-05-07 21:19:03,195 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 21:19:03,199 - INFO - Ecran întrebare afi\u0219at: Întrebarea 7
+2025-05-07 21:19:08,105 - INFO - User answer: vulpea, Correct answer: castor
+2025-05-07 21:19:08,729 - INFO - Sunet redat
+2025-05-07 21:19:08,729 - INFO - Incorrect answer: Ce animal este simbolul Canadei?, Answer given: vulpea
+2025-05-07 21:19:08,735 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 21:19:08,739 - INFO - Ecran întrebare afi\u0219at: Întrebarea 8
+2025-05-07 21:19:11,822 - INFO - User answer: nu, Correct answer: thomas edison
+2025-05-07 21:19:12,530 - INFO - Sunet redat
+2025-05-07 21:19:12,530 - INFO - Incorrect answer: Cine a inventat becul electric?, Answer given: nu
+2025-05-07 21:19:12,536 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 21:19:12,541 - INFO - Ecran întrebare afi\u0219at: Întrebarea 9
+2025-05-07 21:19:17,993 - INFO - User answer: papaya, Correct answer: pitaya
+2025-05-07 21:19:19,020 - INFO - Sunet redat
+2025-05-07 21:19:19,021 - INFO - Incorrect answer: Ce fruct este cunoscut ca „fructul dragonului”?, Answer given: papaya
+2025-05-07 21:19:19,026 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 21:19:19,031 - INFO - Ecran întrebare afi\u0219at: Întrebarea 10
+2025-05-07 21:19:25,710 - INFO - User answer: engleza, Correct answer: italiana
+2025-05-07 21:19:26,868 - INFO - Sunet redat
+2025-05-07 21:19:26,868 - INFO - Incorrect answer: Ce limb\u0103 se vorbe\u0219te în Elve\u021bia al\u0103turi de francez\u0103 \u0219i german\u0103?, Answer given: engleza
+2025-05-07 21:19:26,874 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 21:19:26,878 - INFO - Ecran întrebare afi\u0219at: Întrebarea 11
+2025-05-07 21:19:32,425 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 21:19:32,427 - INFO - Meniu principal creat
+2025-05-07 21:19:38,900 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 21:19:38,903 - INFO - Statistici afi\u0219ate pentru juc\u0103tor: dalia44
+2025-05-07 21:19:40,590 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 21:19:40,593 - INFO - Meniu principal creat
+2025-05-07 21:19:45,800 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 21:19:45,802 - INFO - Highscores displayed: all
+2025-05-07 21:19:48,200 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-07 21:19:48,202 - INFO - Meniu principal creat
+2025-05-07 21:19:51,466 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-07 21:19:51,483 - INFO - Joc închis de utilizator
+2025-05-13 20:13:36,263 - INFO - Joc ini\u021bializat
+2025-05-13 20:13:36,727 - INFO - Sunete ini\u021bializate cu succes
+2025-05-13 20:13:36,734 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-13 20:13:36,741 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-13 20:13:36,741 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:13:36,763 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-13 20:13:36,767 - INFO - Ecran de login creat
+2025-05-13 20:13:41,312 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-13 20:13:41,313 - INFO - Ultimul login salvat: dalia44
+2025-05-13 20:13:41,319 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:13:41,322 - INFO - Meniu principal creat
+2025-05-13 20:13:41,322 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-13 20:13:44,642 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:13:44,644 - INFO - Meniu pentru setarea num\u0103rului de întreb\u0103ri creat
+2025-05-13 20:13:44,645 - INFO - Meniu pentru setarea num\u0103rului de întreb\u0103ri creat
+2025-05-13 20:13:53,558 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:13:53,561 - INFO - Meniu principal creat
+2025-05-13 20:13:56,458 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:13:56,460 - INFO - Meniu pentru setarea num\u0103rului de întreb\u0103ri creat
+2025-05-13 20:13:56,460 - INFO - Meniu pentru setarea num\u0103rului de întreb\u0103ri creat
+2025-05-13 20:14:00,881 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:14:00,884 - INFO - Meniu principal creat
+2025-05-13 20:14:01,896 - INFO - Num\u0103r de întreb\u0103ri setat: 10
+2025-05-13 20:14:03,538 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/general_mediu.txt
+2025-05-13 20:14:03,539 - INFO - Selectate 10 întreb\u0103ri pentru joc
+2025-05-13 20:14:03,545 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:14:03,551 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-13 20:14:03,551 - INFO - Joc început: general, mediu, 10 întreb\u0103ri
+2025-05-13 20:14:07,574 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:14:07,576 - INFO - Meniu principal creat
+2025-05-13 20:14:09,909 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:14:09,911 - INFO - Meniu pentru setarea num\u0103rului de întreb\u0103ri creat
+2025-05-13 20:14:09,912 - INFO - Meniu pentru setarea num\u0103rului de întreb\u0103ri creat
+2025-05-13 20:14:12,329 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:14:12,332 - INFO - Meniu principal creat
+2025-05-13 20:14:13,344 - INFO - Num\u0103r de întreb\u0103ri setat: 14
+2025-05-13 20:14:16,063 - INFO - Selectate 14 întreb\u0103ri pentru joc
+2025-05-13 20:14:16,071 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:14:16,076 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-13 20:14:16,076 - INFO - Joc început: general, mediu, 14 întreb\u0103ri
+2025-05-13 20:14:20,576 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:14:20,579 - INFO - Meniu principal creat
+2025-05-13 20:14:23,317 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-13 20:14:23,337 - INFO - Joc închis de utilizator
+2025-05-13 20:22:38,575 - INFO - Joc ini\u021bializat
+2025-05-13 20:22:38,598 - ERROR - Nu s-a putut înc\u0103rca imaginea de fundal: module 'PIL.Image' has no attribute 'ANTIALIAS'
+2025-05-13 20:22:39,069 - INFO - Sunete ini\u021bializate cu succes
+2025-05-13 20:22:39,069 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-13 20:22:39,069 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-13 20:22:47,453 - INFO - Joc ini\u021bializat
+2025-05-13 20:22:47,463 - ERROR - Nu s-a putut înc\u0103rca imaginea de fundal: module 'PIL.Image' has no attribute 'ANTIALIAS'
+2025-05-13 20:22:48,063 - INFO - Sunete ini\u021bializate cu succes
+2025-05-13 20:22:48,064 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-13 20:22:48,064 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-13 20:27:05,070 - INFO - Joc ini\u021bializat
+2025-05-13 20:27:05,840 - INFO - Sunete ini\u021bializate cu succes
+2025-05-13 20:27:05,840 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-13 20:27:05,841 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-13 20:27:05,841 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:27:05,845 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-13 20:27:05,848 - INFO - Ecran de login creat
+2025-05-13 20:27:10,050 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-13 20:27:10,050 - INFO - Ultimul login salvat: dalia44
+2025-05-13 20:27:10,056 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:27:10,059 - INFO - Meniu principal creat
+2025-05-13 20:27:10,059 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-13 20:27:11,975 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:27:11,977 - INFO - Meniu pentru setarea num\u0103rului de întreb\u0103ri creat
+2025-05-13 20:27:14,335 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:27:14,337 - INFO - Meniu principal creat
+2025-05-13 20:27:15,348 - INFO - Num\u0103r de întreb\u0103ri setat: 13
+2025-05-13 20:27:17,252 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/general_mediu.txt
+2025-05-13 20:27:17,252 - INFO - Selectate 13 întreb\u0103ri pentru joc
+2025-05-13 20:27:17,259 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:27:17,263 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-13 20:27:17,263 - INFO - Joc început: general, mediu, 13 întreb\u0103ri
+2025-05-13 20:27:21,363 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-13 20:27:21,382 - INFO - Joc închis de utilizator
+2025-05-13 20:35:46,168 - INFO - Joc ini\u021bializat
+2025-05-13 20:37:25,503 - INFO - Joc ini\u021bializat
+2025-05-13 20:37:26,329 - INFO - Sunete ini\u021bializate cu succes
+2025-05-13 20:37:26,332 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-13 20:37:26,353 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-13 20:37:26,355 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:38:23,663 - INFO - Joc ini\u021bializat
+2025-05-13 20:38:23,716 - INFO - Fundalul imaginii setat cu succes
+2025-05-13 20:38:24,594 - INFO - Sunete ini\u021bializate cu succes
+2025-05-13 20:38:24,595 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-13 20:38:24,595 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-13 20:38:24,598 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:50:19,373 - INFO - Joc ini\u021bializat
+2025-05-13 20:50:19,434 - INFO - Fundalul imaginii setat cu succes
+2025-05-13 20:50:20,263 - INFO - Sunete ini\u021bializate cu succes
+2025-05-13 20:50:20,264 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-13 20:50:20,264 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-13 20:50:20,264 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:50:20,282 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-13 20:50:20,284 - INFO - Ecran de login creat
+2025-05-13 20:52:56,736 - INFO - Joc ini\u021bializat
+2025-05-13 20:52:56,768 - INFO - Fundalul imaginii setat cu succes
+2025-05-13 20:52:57,378 - INFO - Sunete ini\u021bializate cu succes
+2025-05-13 20:52:57,379 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-13 20:52:57,379 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-13 20:52:57,379 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:52:57,381 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-13 20:52:57,382 - INFO - Ecran de login creat
+2025-05-13 20:53:01,918 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-13 20:53:01,919 - INFO - Ultimul login salvat: dalia44
+2025-05-13 20:53:01,926 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:53:01,927 - INFO - Meniu principal creat
+2025-05-13 20:53:01,927 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-13 20:53:02,127 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/general_mediu.txt
+2025-05-13 20:53:02,128 - INFO - Selectate 10 întreb\u0103ri pentru joc
+2025-05-13 20:53:02,135 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 20:53:02,138 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-13 20:53:02,138 - INFO - Joc început: general, mediu, 10 întreb\u0103ri
+2025-05-13 20:53:04,155 - WARNING - Attempt to check answer without input
+2025-05-13 20:53:09,696 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-13 20:53:09,714 - INFO - Joc închis de utilizator
+2025-05-13 21:04:28,805 - INFO - Joc ini\u021bializat
+2025-05-13 21:04:28,832 - INFO - Fundalul imaginii setat cu succes
+2025-05-13 21:04:29,286 - INFO - Sunete ini\u021bializate cu succes
+2025-05-13 21:04:29,286 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-13 21:04:29,287 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-13 21:04:29,287 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 21:04:29,289 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-13 21:04:29,291 - INFO - Ecran de login creat
+2025-05-13 21:04:47,298 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-13 21:04:47,299 - INFO - Ultimul login salvat: dalia44
+2025-05-13 21:04:47,303 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 21:04:47,305 - INFO - Meniu principal creat
+2025-05-13 21:04:47,305 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-13 21:04:50,461 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-13 21:04:50,483 - INFO - Joc închis de utilizator
+2025-05-13 21:31:24,068 - INFO - Joc ini\u021bializat
+2025-05-13 21:31:24,095 - INFO - Fundalul imaginii setat cu succes
+2025-05-13 21:31:24,676 - INFO - Sunete ini\u021bializate cu succes
+2025-05-13 21:31:24,677 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-13 21:31:24,678 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-13 21:31:24,678 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 21:31:24,684 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-13 21:31:24,688 - INFO - Ecran de login creat
+2025-05-13 21:31:48,588 - INFO - Utilizatori salva\u021bi: 
+2025-05-13 21:31:48,607 - INFO - Joc închis de utilizator
+2025-05-13 21:33:17,995 - INFO - Joc ini\u021bializat
+2025-05-13 21:33:18,024 - INFO - Fundalul imaginii setat cu succes
+2025-05-13 21:33:18,725 - INFO - Sunete ini\u021bializate cu succes
+2025-05-13 21:33:18,725 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-13 21:33:18,725 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-13 21:33:18,725 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 21:33:18,727 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-13 21:33:18,729 - INFO - Ecran de login creat
+2025-05-13 21:33:25,470 - INFO - Utilizatori salva\u021bi: 
+2025-05-13 21:33:25,487 - INFO - Joc închis de utilizator
+2025-05-13 21:39:15,178 - INFO - Joc ini\u021bializat
+2025-05-13 21:39:15,210 - INFO - Fundalul imaginii setat cu succes
+2025-05-13 21:39:15,848 - INFO - Sunete ini\u021bializate cu succes
+2025-05-13 21:39:15,849 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-13 21:39:15,849 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-13 21:39:15,849 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 21:39:15,854 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-13 21:39:15,856 - INFO - Ecran de login creat
+2025-05-13 21:39:36,003 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-13 21:39:36,004 - INFO - Ultimul login salvat: dalia44
+2025-05-13 21:39:36,009 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 21:39:36,011 - INFO - Meniu principal creat
+2025-05-13 21:39:36,011 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-13 21:39:38,559 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 21:39:38,561 - INFO - Meniu de dificultate creat
+2025-05-13 21:39:39,768 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 21:39:39,769 - INFO - Meniu principal creat
+2025-05-13 21:39:40,863 - INFO - Dificultate setat\u0103: u\u0219or
+2025-05-13 21:39:40,893 - INFO - Înc\u0103rcate 99 întreb\u0103ri din categories/general_u\u0219or.txt
+2025-05-13 21:39:40,893 - INFO - Selectate 10 întreb\u0103ri pentru joc
+2025-05-13 21:39:40,898 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 21:39:40,900 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-13 21:39:40,900 - INFO - Joc început: general, u\u0219or, 10 întreb\u0103ri
+2025-05-13 21:39:45,379 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-13 21:39:45,398 - INFO - Joc închis de utilizator
+2025-05-13 21:46:00,237 - INFO - Joc ini\u021bializat
+2025-05-13 21:46:00,265 - INFO - Fundalul imaginii setat cu succes
+2025-05-13 21:46:00,889 - INFO - Sunete ini\u021bializate cu succes
+2025-05-13 21:46:00,890 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-13 21:46:00,890 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-13 21:46:00,890 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 21:50:49,596 - INFO - Joc ini\u021bializat
+2025-05-13 21:50:49,627 - INFO - Fundalul imaginii setat cu succes
+2025-05-13 21:54:23,756 - INFO - Joc ini\u021bializat
+2025-05-13 21:54:23,786 - INFO - Fundalul imaginii setat cu succes
+2025-05-13 21:54:24,280 - INFO - Sunete ini\u021bializate cu succes
+2025-05-13 21:54:24,281 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-13 21:54:24,281 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-13 21:54:24,281 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 21:54:24,285 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-13 21:54:24,286 - INFO - Ecran de login creat
+2025-05-13 21:54:31,740 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-13 21:54:31,741 - INFO - Ultimul login salvat: dalia44
+2025-05-13 21:54:31,750 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 21:54:31,751 - INFO - Meniu principal creat
+2025-05-13 21:54:31,751 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-13 21:54:49,977 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-13 21:54:50,003 - INFO - Joc închis de utilizator
+2025-05-13 22:13:37,876 - INFO - Joc ini\u021bializat
+2025-05-13 22:13:37,908 - INFO - Fundalul imaginii setat cu succes
+2025-05-13 22:15:35,374 - INFO - Joc ini\u021bializat
+2025-05-13 22:15:35,399 - INFO - Fundalul imaginii setat cu succes
+2025-05-13 22:17:39,275 - INFO - Joc ini\u021bializat
+2025-05-13 22:17:39,305 - INFO - Fundalul imaginii setat cu succes
+2025-05-13 22:20:08,980 - INFO - Joc ini\u021bializat
+2025-05-13 22:20:09,037 - INFO - Fundalul imaginii setat cu succes
+2025-05-13 22:20:55,132 - INFO - Joc ini\u021bializat
+2025-05-13 22:20:55,157 - INFO - Fundalul imaginii setat cu succes
+2025-05-13 22:22:25,564 - INFO - Joc ini\u021bializat
+2025-05-13 22:22:25,589 - INFO - Fundalul imaginii setat cu succes
+2025-05-13 22:22:26,089 - INFO - Sunete ini\u021bializate cu succes
+2025-05-13 22:22:26,090 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-13 22:22:26,090 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-13 22:24:22,973 - INFO - Joc ini\u021bializat
+2025-05-13 22:24:22,998 - INFO - Fundalul imaginii setat cu succes
+2025-05-13 22:24:23,637 - INFO - Sunete ini\u021bializate cu succes
+2025-05-13 22:24:23,638 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-13 22:24:23,638 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-13 22:26:06,182 - INFO - Joc ini\u021bializat
+2025-05-13 22:26:06,210 - INFO - Fundalul imaginii setat cu succes
+2025-05-13 22:29:43,788 - INFO - Joc ini\u021bializat
+2025-05-13 22:29:43,848 - INFO - Fundalul imaginii setat cu succes
+2025-05-13 22:31:13,527 - INFO - Joc ini\u021bializat
+2025-05-13 22:31:13,589 - INFO - Fundalul imaginii setat cu succes
+2025-05-13 22:31:14,517 - INFO - Sunete ini\u021bializate cu succes
+2025-05-13 22:31:14,518 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-13 22:31:14,519 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-13 22:31:14,519 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 22:31:14,524 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-13 22:31:14,526 - INFO - Ecran de login creat
+2025-05-13 22:31:19,884 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-13 22:31:19,885 - INFO - Ultimul login salvat: dalia44
+2025-05-13 22:31:19,892 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 22:31:19,894 - INFO - Meniu principal creat
+2025-05-13 22:31:19,894 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-13 22:31:27,718 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 22:31:27,719 - INFO - Meniu de categorii creat
+2025-05-13 22:31:29,080 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 22:31:29,082 - INFO - Meniu principal creat
+2025-05-13 22:31:30,066 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/general_mediu.txt
+2025-05-13 22:31:30,066 - INFO - Selectate 10 întreb\u0103ri pentru joc
+2025-05-13 22:31:30,076 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-13 22:31:30,080 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-13 22:31:30,080 - INFO - Joc început: general, mediu, 10 întreb\u0103ri
+2025-05-13 22:31:35,108 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-13 22:31:35,133 - INFO - Joc închis de utilizator
+2025-05-14 10:49:45,969 - INFO - Joc ini\u021bializat
+2025-05-14 10:49:46,243 - INFO - Fundalul imaginii setat cu succes
+2025-05-14 10:49:46,855 - INFO - Sunete ini\u021bializate cu succes
+2025-05-14 10:49:46,867 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-14 10:49:46,877 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-14 10:49:46,878 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-14 10:49:46,894 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-14 10:49:46,897 - INFO - Ecran de login creat
+2025-05-14 10:50:04,759 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-14 10:50:04,760 - INFO - Ultimul login salvat: dalia44
+2025-05-14 10:50:04,769 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-14 10:50:04,774 - INFO - Meniu principal creat
+2025-05-14 10:50:04,774 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-14 10:50:16,836 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/general_mediu.txt
+2025-05-14 10:50:16,836 - INFO - Selectate 10 întreb\u0103ri pentru joc
+2025-05-14 10:50:16,843 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-14 10:50:16,846 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-14 10:50:16,846 - INFO - Joc început: general, mediu, 10 întreb\u0103ri
+2025-05-14 10:50:25,056 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-14 10:50:25,073 - INFO - Joc închis de utilizator
+2025-05-20 14:12:03,117 - INFO - Joc ini\u021bializat
+2025-05-20 14:12:03,445 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 14:12:05,052 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 14:12:05,094 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 14:12:05,144 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-20 14:12:05,144 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 14:12:05,198 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 14:12:05,215 - INFO - Ecran de login creat
+2025-05-20 14:12:11,958 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-20 14:12:11,960 - INFO - Ultimul login salvat: dalia44
+2025-05-20 14:12:11,974 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 14:12:11,982 - INFO - Meniu principal creat
+2025-05-20 14:12:11,982 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-20 14:12:17,146 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 14:12:17,191 - INFO - Joc închis de utilizator
+2025-05-20 14:20:22,274 - INFO - Joc ini\u021bializat
+2025-05-20 14:20:22,496 - ERROR - Eroare la înc\u0103rcarea imaginii de fundal: invalid color name "#F5F5F580"
+2025-05-20 14:30:03,973 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 14:30:03,974 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 14:30:03,987 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-20 14:31:04,299 - INFO - Joc ini\u021bializat
+2025-05-20 14:31:04,416 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 14:31:05,405 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 14:31:05,406 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 14:31:05,406 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-20 14:31:05,406 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 14:31:05,411 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 14:31:05,414 - INFO - Ecran de login creat
+2025-05-20 14:31:10,812 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-20 14:31:10,813 - INFO - Ultimul login salvat: dalia44
+2025-05-20 14:31:10,838 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 14:31:10,841 - INFO - Meniu principal creat
+2025-05-20 14:31:10,841 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-20 14:31:31,494 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/general_mediu.txt
+2025-05-20 14:31:31,494 - INFO - Selectate 10 întreb\u0103ri pentru joc
+2025-05-20 14:31:31,503 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 14:31:31,509 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-20 14:31:31,509 - INFO - Joc început: general, mediu, 10 întreb\u0103ri
+2025-05-20 14:31:36,524 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 14:31:36,570 - INFO - Joc închis de utilizator
+2025-05-20 14:38:18,989 - INFO - Joc ini\u021bializat
+2025-05-20 14:38:19,030 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 14:38:19,863 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 14:38:19,863 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 14:38:19,864 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-20 14:38:19,864 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 14:44:04,410 - INFO - Joc ini\u021bializat
+2025-05-20 14:44:04,489 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 14:44:05,482 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 14:44:05,484 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 14:44:05,484 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-20 14:44:05,484 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 14:44:05,495 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 14:44:05,497 - INFO - Ecran de login creat
+2025-05-20 14:44:12,581 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-20 14:44:12,582 - INFO - Ultimul login salvat: dalia44
+2025-05-20 14:44:12,606 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 14:44:12,609 - INFO - Meniu principal creat
+2025-05-20 14:44:12,609 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-20 14:44:24,598 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 14:44:24,621 - INFO - Meniu de categorii creat
+2025-05-20 14:44:28,891 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 14:44:28,894 - INFO - Meniu principal creat
+2025-05-20 14:44:32,898 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 14:44:32,902 - INFO - Statistici afi\u0219ate pentru juc\u0103tor: dalia44
+2025-05-20 14:44:35,448 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 14:44:35,451 - INFO - Meniu principal creat
+2025-05-20 14:44:40,069 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/general_mediu.txt
+2025-05-20 14:44:40,069 - INFO - Selectate 10 întreb\u0103ri pentru joc
+2025-05-20 14:44:40,081 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 14:44:40,085 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-20 14:44:40,085 - INFO - Joc început: general, mediu, 10 întreb\u0103ri
+2025-05-20 14:44:53,617 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 14:44:53,620 - INFO - Meniu principal creat
+2025-05-20 14:45:08,271 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 14:45:08,313 - INFO - Joc închis de utilizator
+2025-05-20 14:55:19,201 - INFO - Joc ini\u021bializat
+2025-05-20 14:55:19,269 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 14:55:20,244 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 14:55:20,245 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 14:55:20,245 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-20 14:55:20,245 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 14:55:20,250 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 14:55:20,252 - INFO - Ecran de login creat
+2025-05-20 14:55:24,984 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-20 14:55:24,985 - INFO - Ultimul login salvat: dalia44
+2025-05-20 14:55:25,010 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 14:55:25,013 - INFO - Meniu principal creat
+2025-05-20 14:55:25,013 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-20 14:55:36,764 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 14:55:36,856 - INFO - Joc închis de utilizator
+2025-05-20 14:56:01,837 - INFO - Joc ini\u021bializat
+2025-05-20 14:56:01,884 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 14:56:02,609 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 14:56:02,609 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 14:56:02,610 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-20 14:56:02,610 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 14:56:02,613 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 14:56:02,614 - INFO - Ecran de login creat
+2025-05-20 14:56:33,087 - WARNING - Încercare de login cu câmpuri goale
+2025-05-20 14:56:38,158 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-20 14:56:38,159 - INFO - Ultimul login salvat: dalia44
+2025-05-20 14:56:38,183 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 14:56:38,186 - INFO - Meniu principal creat
+2025-05-20 14:56:38,186 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-20 15:02:55,533 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 15:02:55,551 - INFO - Joc închis de utilizator
+2025-05-20 15:04:27,087 - INFO - Joc ini\u021bializat
+2025-05-20 15:04:27,111 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 15:04:27,777 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 15:04:27,778 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 15:04:27,778 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-20 15:04:27,778 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:04:27,780 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 15:04:27,782 - INFO - Ecran de login creat
+2025-05-20 15:04:32,082 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-20 15:04:32,082 - INFO - Ultimul login salvat: dalia44
+2025-05-20 15:04:32,093 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:04:32,094 - INFO - Meniu principal creat
+2025-05-20 15:04:32,094 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-20 15:04:39,190 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 15:04:39,215 - INFO - Joc închis de utilizator
+2025-05-20 15:09:48,755 - INFO - Joc ini\u021bializat
+2025-05-20 15:09:49,175 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 15:09:50,207 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 15:10:28,133 - INFO - Joc ini\u021bializat
+2025-05-20 15:10:28,163 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 15:10:28,839 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 15:10:28,855 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 15:10:28,872 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-20 15:10:28,872 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:10:28,893 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 15:10:28,895 - INFO - Ecran de login creat
+2025-05-20 15:10:32,347 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-20 15:10:32,347 - INFO - Ultimul login salvat: dalia44
+2025-05-20 15:10:32,355 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:10:32,357 - INFO - Meniu principal creat
+2025-05-20 15:10:32,357 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-20 15:10:40,674 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 15:10:40,699 - INFO - Joc închis de utilizator
+2025-05-20 15:13:15,509 - INFO - Joc ini\u021bializat
+2025-05-20 15:13:15,542 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 15:13:16,128 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 15:13:16,128 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 15:13:16,128 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-20 15:13:16,129 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:13:16,132 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 15:13:16,133 - INFO - Ecran de login creat
+2025-05-20 15:13:20,479 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-20 15:13:20,480 - INFO - Ultimul login salvat: dalia44
+2025-05-20 15:13:20,488 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:13:20,489 - INFO - Meniu principal creat
+2025-05-20 15:13:20,489 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-20 15:13:23,072 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/general_mediu.txt
+2025-05-20 15:13:23,072 - INFO - Selectate 10 întreb\u0103ri pentru joc
+2025-05-20 15:13:23,079 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:13:23,081 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-20 15:13:23,082 - INFO - Joc început: general, mediu, 10 întreb\u0103ri
+2025-05-20 15:13:26,920 - INFO - User answer: 20, Correct answer: 206
+2025-05-20 15:13:28,591 - INFO - Sunet redat
+2025-05-20 15:13:28,591 - INFO - Incorrect answer: Câte oase are scheletul uman adult?, Answer given: 20
+2025-05-20 15:13:28,597 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:13:28,602 - INFO - Ecran întrebare afi\u0219at: Întrebarea 2
+2025-05-20 15:13:32,893 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:13:32,896 - INFO - Meniu principal creat
+2025-05-20 15:13:49,039 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 15:13:49,062 - INFO - Joc închis de utilizator
+2025-05-20 15:16:29,166 - INFO - Joc ini\u021bializat
+2025-05-20 15:16:29,194 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 15:16:29,843 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 15:16:29,844 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 15:16:29,844 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-20 15:16:29,844 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:16:29,847 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 15:16:29,848 - INFO - Ecran de login creat
+2025-05-20 15:16:33,834 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-20 15:16:33,835 - INFO - Ultimul login salvat: dalia44
+2025-05-20 15:16:33,842 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:16:33,844 - INFO - Meniu principal creat
+2025-05-20 15:16:33,844 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-20 15:16:54,467 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 15:16:54,489 - INFO - Joc închis de utilizator
+2025-05-20 15:19:24,027 - INFO - Joc ini\u021bializat
+2025-05-20 15:19:24,057 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 15:19:24,687 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 15:19:24,687 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 15:19:24,687 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-20 15:19:24,688 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:19:24,690 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 15:19:24,691 - INFO - Ecran de login creat
+2025-05-20 15:19:28,099 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-20 15:19:28,100 - INFO - Ultimul login salvat: dalia44
+2025-05-20 15:19:28,108 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:19:28,109 - INFO - Meniu principal creat
+2025-05-20 15:19:28,109 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-20 15:19:38,691 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 15:19:38,711 - INFO - Joc închis de utilizator
+2025-05-20 15:20:26,486 - INFO - Joc ini\u021bializat
+2025-05-20 15:20:26,557 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 15:20:27,556 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 15:20:27,556 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 15:20:27,557 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-20 15:20:27,557 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:20:27,561 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 15:20:27,563 - INFO - Ecran de login creat
+2025-05-20 15:20:32,573 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-20 15:20:32,574 - INFO - Ultimul login salvat: dalia44
+2025-05-20 15:20:32,580 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:20:32,583 - INFO - Meniu principal creat
+2025-05-20 15:20:32,583 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-20 15:20:43,772 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 15:20:43,806 - INFO - Joc închis de utilizator
+2025-05-20 15:32:38,648 - INFO - Joc ini\u021bializat
+2025-05-20 15:32:38,677 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 15:32:39,235 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 15:32:39,236 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 15:32:39,237 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-20 15:32:39,237 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:32:39,241 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 15:32:39,244 - INFO - Ecran de autentificare creat
+2025-05-20 15:32:45,625 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-20 15:32:45,626 - INFO - Ultimul login salvat: dalia44
+2025-05-20 15:32:45,633 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:32:45,634 - INFO - Meniu principal creat
+2025-05-20 15:32:45,635 - INFO - Autentificare reu\u0219it\u0103 pentru utilizator: dalia44
+2025-05-20 15:32:48,923 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/general_mediu.txt
+2025-05-20 15:32:48,923 - INFO - Selectate 10 întreb\u0103ri pentru joc
+2025-05-20 15:32:48,930 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:32:48,934 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-20 15:32:48,934 - INFO - Joc început: general, mediu, 10 întreb\u0103ri
+2025-05-20 15:32:58,155 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:32:58,156 - INFO - Meniu principal creat
+2025-05-20 15:33:01,805 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:33:01,808 - INFO - Cele mai bune scoruri afi\u0219ate: toate scorurile
+2025-05-20 15:33:04,617 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:33:04,618 - INFO - Cele mai bune scoruri afi\u0219ate: doar ale juc\u0103torului
+2025-05-20 15:33:07,486 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:33:07,488 - INFO - Meniu principal creat
+2025-05-20 15:33:15,228 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 15:33:15,248 - INFO - Joc închis de utilizator
+2025-05-20 15:38:39,576 - INFO - Joc ini\u021bializat
+2025-05-20 15:38:39,631 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 15:38:40,339 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 15:38:40,340 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 15:38:40,341 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-20 15:38:40,341 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:38:40,345 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 15:38:40,347 - INFO - Ecran de autentificare creat
+2025-05-20 15:38:45,302 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-20 15:38:45,303 - INFO - Ultimul login salvat: dalia44
+2025-05-20 15:38:45,309 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:38:45,310 - INFO - Meniu principal creat
+2025-05-20 15:38:45,311 - INFO - Autentificare reu\u0219it\u0103 pentru utilizator: dalia44
+2025-05-20 15:38:52,311 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 15:38:52,328 - INFO - Joc închis de utilizator
+2025-05-20 15:45:48,633 - INFO - Game initialized
+2025-05-20 15:45:48,661 - INFO - Background image set successfully
+2025-05-20 15:45:49,115 - INFO - Sounds initialized successfully
+2025-05-20 15:45:49,115 - INFO - Users loaded successfully
+2025-05-20 15:45:49,116 - INFO - Highscores loaded: 11 entries
+2025-05-20 15:45:49,116 - INFO - Interface cleared
+2025-05-20 15:45:49,118 - INFO - Last login loaded: dalia44
+2025-05-20 15:45:49,120 - INFO - Login screen created
+2025-05-20 15:45:52,561 - INFO - Password hashed
+2025-05-20 15:45:52,562 - INFO - Last login saved: dalia44
+2025-05-20 15:45:52,571 - INFO - Interface cleared
+2025-05-20 15:45:52,573 - INFO - Main menu created
+2025-05-20 15:45:52,573 - INFO - Login successful for user: dalia44
+2025-05-20 15:45:54,498 - INFO - Interface cleared
+2025-05-20 15:45:54,499 - INFO - Category menu created
+2025-05-20 15:46:03,833 - INFO - Interface cleared
+2025-05-20 15:46:03,835 - INFO - Main menu created
+2025-05-20 15:46:06,576 - INFO - Interface cleared
+2025-05-20 15:46:06,577 - INFO - Statistics displayed for player: dalia44
+2025-05-20 15:46:09,324 - INFO - Interface cleared
+2025-05-20 15:46:09,325 - INFO - Main menu created
+2025-05-20 15:46:13,938 - INFO - File categories/general_medium.txt does not exist
+2025-05-20 15:46:13,939 - INFO - Questions saved to categories/general_medium.txt
+2025-05-20 15:46:14,939 - INFO - Simulated questions downloaded: 203 for general/medium
+2025-05-20 15:46:14,940 - INFO - Selected 200 questions for the game
+2025-05-20 15:46:14,947 - INFO - Interface cleared
+2025-05-20 15:46:14,949 - INFO - Question screen displayed: Question 1
+2025-05-20 15:46:14,949 - INFO - Game started: general, medium, 10 questions
+2025-05-20 15:46:14,949 - INFO - FastQuiz started with duration: 300 seconds
+2025-05-20 15:46:21,369 - INFO - Interface cleared
+2025-05-20 15:46:21,372 - INFO - Main menu created
+2025-05-20 15:46:22,819 - INFO - Selected 200 questions for the game
+2025-05-20 15:46:22,828 - INFO - Interface cleared
+2025-05-20 15:46:22,831 - INFO - Question screen displayed: Question 1
+2025-05-20 15:46:22,831 - INFO - Game started: general, medium, 10 questions
+2025-05-20 15:46:34,938 - INFO - Interface cleared
+2025-05-20 15:46:34,941 - INFO - Question screen displayed: Question 2
+2025-05-20 15:46:34,941 - INFO - Question skipped: Medium general question 197?
+2025-05-20 15:46:38,187 - INFO - Users saved: dalia44
+2025-05-20 15:46:38,209 - INFO - Game closed by user
+2025-05-20 15:46:55,914 - INFO - Game initialized
+2025-05-20 15:46:55,941 - INFO - Background image set successfully
+2025-05-20 15:46:56,557 - INFO - Sounds initialized successfully
+2025-05-20 15:46:56,558 - INFO - Users loaded successfully
+2025-05-20 15:46:56,558 - INFO - Highscores loaded: 11 entries
+2025-05-20 15:46:56,558 - INFO - Interface cleared
+2025-05-20 15:46:56,560 - INFO - Last login loaded: dalia44
+2025-05-20 15:46:56,562 - INFO - Login screen created
+2025-05-20 15:46:59,807 - INFO - Password hashed
+2025-05-20 15:46:59,808 - INFO - Last login saved: dalia44
+2025-05-20 15:46:59,815 - INFO - Interface cleared
+2025-05-20 15:46:59,816 - INFO - Main menu created
+2025-05-20 15:46:59,816 - INFO - Login successful for user: dalia44
+2025-05-20 15:47:01,368 - INFO - Loaded 203 questions from categories/general_medium.txt
+2025-05-20 15:47:01,368 - INFO - Selected 10 questions for the game
+2025-05-20 15:47:01,378 - INFO - Interface cleared
+2025-05-20 15:47:01,381 - INFO - Question screen displayed: Question 1
+2025-05-20 15:47:01,381 - INFO - Game started: general, medium, 10 questions
+2025-05-20 15:47:05,578 - INFO - Users saved: dalia44
+2025-05-20 15:47:05,599 - INFO - Game closed by user
+2025-05-20 15:57:51,792 - INFO - Game initialized
+2025-05-20 15:57:51,906 - INFO - Background image set successfully
+2025-05-20 15:57:52,595 - INFO - Sounds initialized successfully
+2025-05-20 15:57:52,595 - INFO - Users loaded successfully
+2025-05-20 15:57:52,595 - INFO - Highscores loaded: 11 entries
+2025-05-20 15:57:52,595 - INFO - Interface cleared
+2025-05-20 15:57:52,598 - INFO - Last login loaded: dalia44
+2025-05-20 15:57:52,599 - INFO - Login screen created
+2025-05-20 15:57:56,661 - INFO - Password hashed
+2025-05-20 15:57:56,661 - INFO - Last login saved: dalia44
+2025-05-20 15:57:56,668 - INFO - Interface cleared
+2025-05-20 15:57:56,669 - INFO - Main menu created
+2025-05-20 15:57:56,669 - INFO - Login successful for user: dalia44
+2025-05-20 15:57:59,448 - INFO - Loaded 203 questions from categories/general_medium.txt
+2025-05-20 15:57:59,448 - INFO - Selected 10 questions for the game
+2025-05-20 15:57:59,456 - INFO - Interface cleared
+2025-05-20 15:57:59,458 - INFO - Question screen displayed: Question 1
+2025-05-20 15:57:59,458 - INFO - Game started: general, medium, 10 questions
+2025-05-20 15:58:06,004 - INFO - Users saved: dalia44
+2025-05-20 15:58:06,023 - INFO - Game closed by user
+2025-05-20 15:59:10,931 - INFO - Joc ini\u021bializat
+2025-05-20 15:59:10,957 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 15:59:11,599 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 15:59:11,599 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 15:59:11,599 - INFO - Scoruri înc\u0103rcate: 11 intr\u0103ri
+2025-05-20 15:59:11,599 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:59:11,603 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 15:59:11,604 - INFO - Ecran de login creat
+2025-05-20 15:59:56,882 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-20 15:59:56,883 - INFO - Ultimul login salvat: dalia44
+2025-05-20 15:59:56,891 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 15:59:56,892 - INFO - Meniu principal creat
+2025-05-20 15:59:56,892 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-20 16:00:05,856 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/general_mediu.txt
+2025-05-20 16:00:05,856 - INFO - Selectate 10 întreb\u0103ri pentru joc
+2025-05-20 16:00:05,866 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:00:05,869 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-20 16:00:05,869 - INFO - Joc început: general, mediu, 10 întreb\u0103ri
+2025-05-20 16:00:16,893 - INFO - User answer: marte, Correct answer: venus
+2025-05-20 16:00:19,400 - INFO - Sunet redat
+2025-05-20 16:00:19,400 - INFO - Incorrect answer: Ce planet\u0103 este a doua de la Soare?, Answer given: marte
+2025-05-20 16:00:19,407 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:00:19,411 - INFO - Ecran întrebare afi\u0219at: Întrebarea 2
+2025-05-20 16:00:29,988 - INFO - User answer: 12, Correct answer: 27
+2025-05-20 16:00:31,509 - INFO - Sunet redat
+2025-05-20 16:00:31,509 - INFO - Incorrect answer: Câte \u021b\u0103ri sunt în Uniunea European\u0103 (2025)?, Answer given: 12
+2025-05-20 16:00:31,518 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:00:31,521 - INFO - Ecran întrebare afi\u0219at: Întrebarea 3
+2025-05-20 16:00:46,000 - INFO - Sunet redat
+2025-05-20 16:00:46,001 - INFO - Hint used: type 2 for question Ce element chimic are simbolul „K”?
+2025-05-20 16:00:52,725 - INFO - User answer: potasiu, Correct answer: potasiu
+2025-05-20 16:00:54,005 - INFO - Sunet redat
+2025-05-20 16:00:54,005 - INFO - Correct answer: Ce element chimic are simbolul „K”?, XP earned: 15
+2025-05-20 16:00:54,012 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:00:54,016 - INFO - Ecran întrebare afi\u0219at: Întrebarea 4
+2025-05-20 16:01:19,034 - INFO - User answer: margareta, Correct answer: margareta
+2025-05-20 16:01:20,698 - INFO - Sunet redat
+2025-05-20 16:01:22,715 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 16:01:22,715 - INFO - Correct answer: Ce floare este asociat\u0103 cu luna aprilie?, XP earned: 15
+2025-05-20 16:01:22,720 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:01:22,722 - INFO - Ecran întrebare afi\u0219at: Întrebarea 5
+2025-05-20 16:01:30,550 - INFO - Sunet redat
+2025-05-20 16:01:30,550 - INFO - Hint used: type 1 for question Ce instrument muzical este asociat cu muzica country?
+2025-05-20 16:01:51,752 - INFO - Sunet redat
+2025-05-20 16:01:51,752 - INFO - Hint used: type 2 for question Ce instrument muzical este asociat cu muzica country?
+2025-05-20 16:01:57,416 - INFO - Sunet redat
+2025-05-20 16:01:57,416 - INFO - Hint used: type 2 for question Ce instrument muzical este asociat cu muzica country?
+2025-05-20 16:01:59,836 - INFO - Sunet redat
+2025-05-20 16:01:59,837 - INFO - Hint used: type 2 for question Ce instrument muzical este asociat cu muzica country?
+2025-05-20 16:02:05,297 - WARNING - Attempt to use hint without available hints
+2025-05-20 16:02:08,020 - INFO - User answer: banjo, Correct answer: banjo
+2025-05-20 16:02:09,092 - INFO - Sunet redat
+2025-05-20 16:02:09,093 - INFO - Correct answer: Ce instrument muzical este asociat cu muzica country?, XP earned: 15
+2025-05-20 16:02:09,098 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:02:09,102 - INFO - Ecran întrebare afi\u0219at: Întrebarea 6
+2025-05-20 16:02:17,293 - INFO - User answer: camila, Correct answer: pisica
+2025-05-20 16:02:20,315 - INFO - Sunet redat
+2025-05-20 16:02:20,315 - INFO - Incorrect answer: Ce animal este simbolul Egiptului?, Answer given: camila
+2025-05-20 16:02:20,320 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:02:20,323 - INFO - Ecran întrebare afi\u0219at: Întrebarea 7
+2025-05-20 16:02:32,089 - INFO - User answer: grecia, Correct answer: australia
+2025-05-20 16:02:33,279 - INFO - Sunet redat
+2025-05-20 16:02:33,279 - INFO - Incorrect answer: Ce \u021bar\u0103 a g\u0103zduit Jocurile Olimpice din 2000?, Answer given: grecia
+2025-05-20 16:02:33,285 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:02:33,287 - INFO - Ecran întrebare afi\u0219at: Întrebarea 8
+2025-05-20 16:02:41,566 - INFO - User answer: sarpe, Correct answer: tigru
+2025-05-20 16:02:43,015 - INFO - Sunet redat
+2025-05-20 16:02:43,015 - INFO - Incorrect answer: Ce animal este simbolul Indiei?, Answer given: sarpe
+2025-05-20 16:02:43,021 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:02:43,024 - INFO - Ecran întrebare afi\u0219at: Întrebarea 9
+2025-05-20 16:02:47,465 - INFO - User answer: 7, Correct answer: 7
+2025-05-20 16:02:48,259 - INFO - Sunet redat
+2025-05-20 16:02:48,259 - INFO - Correct answer: Câte continente sunt pe P\u0103mânt?, XP earned: 15
+2025-05-20 16:02:48,265 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:02:48,268 - INFO - Ecran întrebare afi\u0219at: Întrebarea 10
+2025-05-20 16:02:56,622 - INFO - User answer: mercur, Correct answer: mercur
+2025-05-20 16:02:57,944 - INFO - Sunet redat
+2025-05-20 16:02:57,944 - INFO - Correct answer: Ce element chimic este folosit în termometre?, XP earned: 15
+2025-05-20 16:02:57,963 - INFO - Scor salvat: {'name': 'dalia44', 'score': 5, 'date': '2025-05-20 16:02', 'category': 'general', 'difficulty': 'mediu', 'questions': 10, 'time': 172.09, 'hints_used': 5}
+2025-05-20 16:02:57,964 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 16:02:57,964 - INFO - Sunet redat
+2025-05-20 16:03:01,971 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:03:01,974 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-20 16:03:01,974 - INFO - Started reviewing incorrect answers
+2025-05-20 16:03:01,974 - INFO - Game ended, proceeding to review incorrect answers
+2025-05-20 16:03:05,070 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:03:05,071 - INFO - Meniu principal creat
+2025-05-20 16:03:07,267 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:03:07,268 - INFO - Meniu de categorii creat
+2025-05-20 16:03:09,736 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:03:09,737 - INFO - Meniu principal creat
+2025-05-20 16:03:11,354 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:03:11,355 - INFO - Meniu de dificultate creat
+2025-05-20 16:03:13,396 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:03:13,399 - INFO - Meniu principal creat
+2025-05-20 16:03:15,602 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:03:15,623 - INFO - Meniu pentru setarea num\u0103rului de întreb\u0103ri creat
+2025-05-20 16:03:30,012 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:03:30,013 - INFO - Meniu principal creat
+2025-05-20 16:03:33,166 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:03:33,167 - INFO - Meniu de dificultate creat
+2025-05-20 16:03:35,374 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:03:35,375 - INFO - Meniu principal creat
+2025-05-20 16:03:36,746 - INFO - Dificultate setat\u0103: greu
+2025-05-20 16:03:41,666 - INFO - Înc\u0103rcate 95 întreb\u0103ri din categories/general_greu.txt
+2025-05-20 16:03:41,666 - INFO - Selectate 20 întreb\u0103ri pentru joc
+2025-05-20 16:03:41,678 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:03:41,684 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-20 16:03:41,684 - INFO - Joc început: general, greu, 20 întreb\u0103ri
+2025-05-20 16:03:54,646 - INFO - User answer: ion, Correct answer: martin heidegger
+2025-05-20 16:03:56,706 - INFO - Sunet redat
+2025-05-20 16:03:56,706 - INFO - Incorrect answer: Ce filozof a scris „Fiin\u021b\u0103 \u0219i timp”?, Answer given: ion
+2025-05-20 16:03:56,725 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:03:56,731 - INFO - Ecran întrebare afi\u0219at: Întrebarea 2
+2025-05-20 16:04:03,430 - INFO - User answer: vanuatu, Correct answer: port vila
+2025-05-20 16:04:05,336 - INFO - Sunet redat
+2025-05-20 16:04:05,337 - INFO - Incorrect answer: Care este capitala statului Vanuatu?, Answer given: vanuatu
+2025-05-20 16:04:05,359 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:04:05,365 - INFO - Ecran întrebare afi\u0219at: Întrebarea 3
+2025-05-20 16:04:15,004 - INFO - User answer: platina, Correct answer: platina
+2025-05-20 16:04:16,816 - INFO - Sunet redat
+2025-05-20 16:04:16,816 - INFO - Correct answer: Ce element chimic are simbolul „Pt”?, XP earned: 20
+2025-05-20 16:04:16,831 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:04:16,839 - INFO - Ecran întrebare afi\u0219at: Întrebarea 4
+2025-05-20 16:04:30,227 - INFO - User answer: 1862, Correct answer: 1918
+2025-05-20 16:04:33,417 - INFO - Sunet redat
+2025-05-20 16:04:33,417 - INFO - Incorrect answer: În ce an a fost dizolvat Imperiul Austro-Ungar?, Answer given: 1862
+2025-05-20 16:04:33,438 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:04:33,446 - INFO - Ecran întrebare afi\u0219at: Întrebarea 5
+2025-05-20 16:04:42,490 - INFO - User answer: grenada, Correct answer: st. george's
+2025-05-20 16:04:44,898 - INFO - Sunet redat
+2025-05-20 16:04:44,898 - INFO - Incorrect answer: Care este capitala statului Grenada?, Answer given: grenada
+2025-05-20 16:04:44,915 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:04:44,920 - INFO - Ecran întrebare afi\u0219at: Întrebarea 6
+2025-05-20 16:04:52,007 - INFO - Sunet redat
+2025-05-20 16:04:52,007 - INFO - Hint used: type 1 for question Ce filozof a scris „Republica”?
+2025-05-20 16:04:53,844 - INFO - Sunet redat
+2025-05-20 16:04:53,845 - INFO - Hint used: type 2 for question Ce filozof a scris „Republica”?
+2025-05-20 16:04:59,479 - INFO - User answer: platon, Correct answer: platon
+2025-05-20 16:05:01,681 - INFO - Sunet redat
+2025-05-20 16:05:01,682 - INFO - Correct answer: Ce filozof a scris „Republica”?, XP earned: 20
+2025-05-20 16:05:01,699 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:05:01,706 - INFO - Ecran întrebare afi\u0219at: Întrebarea 7
+2025-05-20 16:05:08,715 - INFO - Sunet redat
+2025-05-20 16:05:08,715 - INFO - Hint used: type 1 for question Cine a fost filozoful care a scris „Astfel vorbea Zarathustra”?
+2025-05-20 16:05:11,043 - INFO - Sunet redat
+2025-05-20 16:05:11,043 - INFO - Hint used: type 2 for question Cine a fost filozoful care a scris „Astfel vorbea Zarathustra”?
+2025-05-20 16:05:15,491 - INFO - User answer: gt, Correct answer: friedrich nietzsche
+2025-05-20 16:05:15,667 - INFO - Sunet redat
+2025-05-20 16:05:15,667 - INFO - Incorrect answer: Cine a fost filozoful care a scris „Astfel vorbea Zarathustra”?, Answer given: gt
+2025-05-20 16:05:15,702 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:05:15,707 - INFO - Ecran întrebare afi\u0219at: Întrebarea 8
+2025-05-20 16:05:25,861 - INFO - User answer: picaso, Correct answer: claude monet
+2025-05-20 16:05:27,843 - INFO - Sunet redat
+2025-05-20 16:05:27,843 - INFO - Incorrect answer: Ce artist a pictat „Femei în gr\u0103din\u0103”?, Answer given: picaso
+2025-05-20 16:05:27,862 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:05:27,866 - INFO - Ecran întrebare afi\u0219at: Întrebarea 9
+2025-05-20 16:05:32,763 - INFO - User answer: nugyv, Correct answer: jean-jacques rousseau
+2025-05-20 16:05:34,664 - INFO - Sunet redat
+2025-05-20 16:05:34,664 - INFO - Incorrect answer: Ce filozof a scris „Contractul social”?, Answer given: nugyv
+2025-05-20 16:05:34,688 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:05:34,694 - INFO - Ecran întrebare afi\u0219at: Întrebarea 10
+2025-05-20 16:05:44,691 - INFO - User answer: 2000, Correct answer: 1945
+2025-05-20 16:05:46,042 - INFO - Sunet redat
+2025-05-20 16:05:46,042 - INFO - Incorrect answer: În ce an a fost fondat\u0103 UNESCO?, Answer given: 2000
+2025-05-20 16:05:46,059 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:05:46,064 - INFO - Ecran întrebare afi\u0219at: Întrebarea 11
+2025-05-20 16:05:58,994 - INFO - User answer: 1956, Correct answer: 1945
+2025-05-20 16:06:00,523 - INFO - Sunet redat
+2025-05-20 16:06:00,524 - INFO - Incorrect answer: În ce an a fost fondat\u0103 Organiza\u021bia Na\u021biunilor Unite?, Answer given: 1956
+2025-05-20 16:06:00,542 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:06:00,546 - INFO - Ecran întrebare afi\u0219at: Întrebarea 12
+2025-05-20 16:06:04,836 - INFO - User answer: jytdc, Correct answer: arthur schopenhauer
+2025-05-20 16:06:05,571 - INFO - Sunet redat
+2025-05-20 16:06:05,572 - INFO - Incorrect answer: Ce filozof a scris „Lumea ca voin\u021b\u0103 \u0219i reprezentare”?, Answer given: jytdc
+2025-05-20 16:06:05,607 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:06:05,613 - INFO - Ecran întrebare afi\u0219at: Întrebarea 13
+2025-05-20 16:06:11,430 - INFO - User answer: cupru, Correct answer: cupru
+2025-05-20 16:06:12,082 - INFO - Sunet redat
+2025-05-20 16:06:12,082 - INFO - Correct answer: Ce element chimic are simbolul „Cu”?, XP earned: 20
+2025-05-20 16:06:12,119 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:06:12,127 - INFO - Ecran întrebare afi\u0219at: Întrebarea 14
+2025-05-20 16:06:16,384 - INFO - User answer: jhyfvd, Correct answer: baruch spinoza
+2025-05-20 16:06:19,500 - INFO - Sunet redat
+2025-05-20 16:06:19,500 - INFO - Incorrect answer: Ce filozof a scris „Etica”?, Answer given: jhyfvd
+2025-05-20 16:06:19,522 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:06:19,527 - INFO - Ecran întrebare afi\u0219at: Întrebarea 15
+2025-05-20 16:06:25,822 - INFO - User answer: aur, Correct answer: aur
+2025-05-20 16:06:26,461 - INFO - Sunet redat
+2025-05-20 16:06:26,461 - INFO - Correct answer: Ce element chimic are simbolul „Au”?, XP earned: 20
+2025-05-20 16:06:26,487 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:06:26,494 - INFO - Ecran întrebare afi\u0219at: Întrebarea 16
+2025-05-20 16:06:35,964 - INFO - User answer: msmsmms, Correct answer: vincent van gogh
+2025-05-20 16:06:37,557 - INFO - Sunet redat
+2025-05-20 16:06:37,557 - INFO - Incorrect answer: Ce artist a pictat „Noapte înstelat\u0103”?, Answer given: msmsmms
+2025-05-20 16:06:37,575 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:06:37,579 - INFO - Ecran întrebare afi\u0219at: Întrebarea 17
+2025-05-20 16:06:46,533 - INFO - Sunet redat
+2025-05-20 16:06:46,533 - INFO - Hint used: type 2 for question Ce element chimic are simbolul „Hg”?
+2025-05-20 16:06:51,100 - INFO - User answer: m, Correct answer: mercur
+2025-05-20 16:06:53,215 - INFO - Sunet redat
+2025-05-20 16:06:53,216 - INFO - Incorrect answer: Ce element chimic are simbolul „Hg”?, Answer given: m
+2025-05-20 16:06:53,238 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:06:53,263 - INFO - Ecran întrebare afi\u0219at: Întrebarea 18
+2025-05-20 16:07:00,255 - INFO - User answer: tonga, Correct answer: nuku\u02bbalofa
+2025-05-20 16:07:02,226 - INFO - Sunet redat
+2025-05-20 16:07:02,227 - INFO - Incorrect answer: Care este capitala statului Tonga?, Answer given: tonga
+2025-05-20 16:07:02,247 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:07:02,252 - INFO - Ecran întrebare afi\u0219at: Întrebarea 19
+2025-05-20 16:07:07,839 - INFO - User answer: sas, Correct answer: mangan
+2025-05-20 16:07:10,183 - INFO - Sunet redat
+2025-05-20 16:07:10,183 - INFO - Incorrect answer: Ce element chimic are simbolul „Mn”?, Answer given: sas
+2025-05-20 16:07:10,196 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:07:10,200 - INFO - Ecran întrebare afi\u0219at: Întrebarea 20
+2025-05-20 16:07:19,589 - INFO - User answer: 1845, Correct answer: 1776
+2025-05-20 16:07:23,119 - INFO - Sunet redat
+2025-05-20 16:07:23,119 - INFO - Incorrect answer: În ce an a avut loc R\u0103zboiul de Independen\u021b\u0103 al Statelor Unite?, Answer given: 1845
+2025-05-20 16:07:23,121 - INFO - Scor salvat: {'name': 'dalia44', 'score': 4, 'date': '2025-05-20 16:07', 'category': 'general', 'difficulty': 'greu', 'questions': 20, 'time': 221.45, 'hints_used': 5}
+2025-05-20 16:07:23,123 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 16:07:23,123 - INFO - Sunet redat
+2025-05-20 16:07:25,694 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:07:25,698 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-20 16:07:25,698 - INFO - Started reviewing incorrect answers
+2025-05-20 16:07:25,698 - INFO - Game ended, proceeding to review incorrect answers
+2025-05-20 16:07:30,096 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:07:30,106 - INFO - Meniu principal creat
+2025-05-20 16:07:32,358 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:07:32,364 - INFO - Meniu de categorii creat
+2025-05-20 16:07:33,670 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:07:33,673 - INFO - Meniu principal creat
+2025-05-20 16:07:35,305 - INFO - Categorie setat\u0103: general
+2025-05-20 16:07:35,734 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:07:35,737 - INFO - Meniu de dificultate creat
+2025-05-20 16:07:37,319 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:07:37,329 - INFO - Meniu principal creat
+2025-05-20 16:07:38,981 - INFO - Dificultate setat\u0103: u\u0219or
+2025-05-20 16:07:41,041 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:07:41,044 - INFO - Meniu pentru setarea num\u0103rului de întreb\u0103ri creat
+2025-05-20 16:07:49,419 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:07:49,422 - INFO - Meniu principal creat
+2025-05-20 16:07:51,070 - INFO - Num\u0103r de întreb\u0103ri setat: 15
+2025-05-20 16:07:52,076 - INFO - Înc\u0103rcate 99 întreb\u0103ri din categories/general_u\u0219or.txt
+2025-05-20 16:07:52,076 - INFO - Selectate 15 întreb\u0103ri pentru joc
+2025-05-20 16:07:52,087 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:07:52,092 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-20 16:07:52,092 - INFO - Joc început: general, u\u0219or, 15 întreb\u0103ri
+2025-05-20 16:07:58,882 - INFO - User answer: ciocan, Correct answer: ciocan
+2025-05-20 16:07:59,696 - INFO - Sunet redat
+2025-05-20 16:07:59,696 - INFO - Correct answer: Ce instrument folose\u0219ti pentru a bate cuie?, XP earned: 10
+2025-05-20 16:07:59,732 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:07:59,740 - INFO - Ecran întrebare afi\u0219at: Întrebarea 2
+2025-05-20 16:08:14,200 - INFO - User answer: o calee lactee, Correct answer: un corp ceresc
+2025-05-20 16:08:16,447 - INFO - Sunet redat
+2025-05-20 16:08:16,447 - INFO - Incorrect answer: Ce este o stea?, Answer given: o calee lactee
+2025-05-20 16:08:16,467 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:08:16,472 - INFO - Ecran întrebare afi\u0219at: Întrebarea 3
+2025-05-20 16:08:41,513 - INFO - User answer: clarinet, Correct answer: trompeta
+2025-05-20 16:08:42,999 - INFO - Sunet redat
+2025-05-20 16:08:42,999 - INFO - Incorrect answer: Ce instrument folose\u0219ti pentru a cânta la o fanfar\u0103?, Answer given: clarinet
+2025-05-20 16:08:43,019 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:08:43,024 - INFO - Ecran întrebare afi\u0219at: Întrebarea 4
+2025-05-20 16:08:56,905 - INFO - User answer: albastru, Correct answer: albastru
+2025-05-20 16:08:57,632 - INFO - Sunet redat
+2025-05-20 16:08:59,716 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 16:08:59,716 - INFO - Correct answer: Ce culoare are un safir?, XP earned: 10
+2025-05-20 16:08:59,754 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:08:59,762 - INFO - Ecran întrebare afi\u0219at: Întrebarea 5
+2025-05-20 16:09:11,472 - INFO - User answer: o forma geometrica, Correct answer: o forma geometrica
+2025-05-20 16:09:12,194 - INFO - Sunet redat
+2025-05-20 16:09:12,194 - INFO - Correct answer: Ce este un triunghi?, XP earned: 10
+2025-05-20 16:09:12,217 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:09:12,222 - INFO - Ecran întrebare afi\u0219at: Întrebarea 6
+2025-05-20 16:09:22,584 - INFO - User answer: floarea soarelui, Correct answer: floarea-soarelui
+2025-05-20 16:09:24,774 - INFO - Sunet redat
+2025-05-20 16:09:24,774 - INFO - Incorrect answer: Ce floare galben\u0103 este asociat\u0103 cu soarele?, Answer given: floarea soarelui
+2025-05-20 16:09:24,805 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:09:24,811 - INFO - Ecran întrebare afi\u0219at: Întrebarea 7
+2025-05-20 16:09:37,718 - INFO - User answer: broasca testoasa, Correct answer: broasca testoasa
+2025-05-20 16:09:38,401 - INFO - Sunet redat
+2025-05-20 16:09:38,401 - INFO - Correct answer: Ce animal este faimos pentru carapacea sa?, XP earned: 10
+2025-05-20 16:09:38,436 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:09:38,442 - INFO - Ecran întrebare afi\u0219at: Întrebarea 8
+2025-05-20 16:09:47,503 - INFO - User answer: italia, Correct answer: brazilia
+2025-05-20 16:09:51,315 - INFO - Sunet redat
+2025-05-20 16:09:51,315 - INFO - Incorrect answer: Ce \u021bar\u0103 este cunoscut\u0103 pentru samba?, Answer given: italia
+2025-05-20 16:09:51,349 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:09:51,357 - INFO - Ecran întrebare afi\u0219at: Întrebarea 9
+2025-05-20 16:09:57,902 - INFO - User answer: o planeta, Correct answer: o stea
+2025-05-20 16:09:59,358 - INFO - Sunet redat
+2025-05-20 16:09:59,358 - INFO - Incorrect answer: Ce este Soarele?, Answer given: o planeta
+2025-05-20 16:09:59,375 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:09:59,380 - INFO - Ecran întrebare afi\u0219at: Întrebarea 10
+2025-05-20 16:10:04,301 - INFO - User answer: verde, Correct answer: verde
+2025-05-20 16:10:04,911 - INFO - Sunet redat
+2025-05-20 16:10:04,911 - INFO - Correct answer: Ce culoare are smaraldul?, XP earned: 10
+2025-05-20 16:10:04,944 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:10:04,951 - INFO - Ecran întrebare afi\u0219at: Întrebarea 11
+2025-05-20 16:10:14,494 - INFO - User answer: spania, Correct answer: lisabona
+2025-05-20 16:10:16,653 - INFO - Sunet redat
+2025-05-20 16:10:16,653 - INFO - Incorrect answer: Ce ora\u0219 este capitala Portugaliei?, Answer given: spania
+2025-05-20 16:10:16,672 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:10:16,677 - INFO - Ecran întrebare afi\u0219at: Întrebarea 12
+2025-05-20 16:10:28,342 - INFO - User answer: alba ca zapada, Correct answer: alba ca zapada
+2025-05-20 16:10:29,013 - INFO - Sunet redat
+2025-05-20 16:10:29,014 - INFO - Correct answer: Cine este personajul principal din „Alb\u0103 ca Z\u0103pada”?, XP earned: 10
+2025-05-20 16:10:29,042 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:10:29,047 - INFO - Ecran întrebare afi\u0219at: Întrebarea 13
+2025-05-20 16:10:45,831 - INFO - User answer: paun, Correct answer: paun
+2025-05-20 16:10:46,564 - INFO - Sunet redat
+2025-05-20 16:10:46,564 - INFO - Correct answer: Ce animal este faimos pentru coada sa lung\u0103 \u0219i colorat\u0103?, XP earned: 10
+2025-05-20 16:10:46,595 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:10:46,602 - INFO - Ecran întrebare afi\u0219at: Întrebarea 14
+2025-05-20 16:10:52,263 - INFO - User answer: banana, Correct answer: banana
+2025-05-20 16:10:55,053 - INFO - Sunet redat
+2025-05-20 16:10:55,053 - INFO - Correct answer: Ce fruct este galben \u0219i lung, folosit în smoothie-uri?, XP earned: 10
+2025-05-20 16:10:55,086 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:10:55,091 - INFO - Ecran întrebare afi\u0219at: Întrebarea 15
+2025-05-20 16:11:13,015 - INFO - User answer: cocos, Correct answer: vultur
+2025-05-20 16:11:15,117 - INFO - Sunet redat
+2025-05-20 16:11:15,117 - INFO - Incorrect answer: Ce animal este faimos pentru ghearele sale lungi?, Answer given: cocos
+2025-05-20 16:11:15,119 - INFO - Scor salvat: {'name': 'dalia44', 'score': 8, 'date': '2025-05-20 16:11', 'category': 'general', 'difficulty': 'u\u0219or', 'questions': 15, 'time': 203.04, 'hints_used': 0}
+2025-05-20 16:11:15,120 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 16:11:15,121 - INFO - Sunet redat
+2025-05-20 16:11:16,995 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 16:11:16,999 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-20 16:11:17,000 - INFO - Started reviewing incorrect answers
+2025-05-20 16:11:17,000 - INFO - Game ended, proceeding to review incorrect answers
+2025-05-20 16:11:22,524 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 16:11:22,575 - INFO - Joc închis de utilizator
+2025-05-20 20:59:06,087 - INFO - Joc ini\u021bializat
+2025-05-20 20:59:06,244 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 20:59:06,747 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 20:59:06,749 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 20:59:06,750 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 20:59:06,750 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 20:59:06,753 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 20:59:06,756 - INFO - Ecran de login creat
+2025-05-20 20:59:12,109 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-20 20:59:12,110 - INFO - Ultimul login salvat: dalia44
+2025-05-20 20:59:12,117 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 20:59:12,118 - INFO - Meniu principal creat
+2025-05-20 20:59:12,119 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-20 20:59:16,048 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/general_mediu.txt
+2025-05-20 20:59:16,048 - INFO - Selectate 10 întreb\u0103ri pentru joc
+2025-05-20 20:59:16,058 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 20:59:16,061 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-20 20:59:16,061 - INFO - Joc început: general, mediu, 10 întreb\u0103ri
+2025-05-20 20:59:20,303 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 20:59:20,304 - INFO - Meniu principal creat
+2025-05-20 20:59:22,828 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 20:59:22,830 - INFO - Highscores displayed: all scores
+2025-05-20 20:59:24,356 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 20:59:24,358 - INFO - Highscores displayed: player only
+2025-05-20 20:59:25,139 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 20:59:25,142 - INFO - Highscores displayed: all scores
+2025-05-20 20:59:53,155 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 20:59:53,156 - INFO - Highscores displayed: player only
+2025-05-20 20:59:56,388 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 20:59:56,390 - INFO - Meniu principal creat
+2025-05-20 21:00:02,478 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 21:00:02,497 - INFO - Joc închis de utilizator
+2025-05-20 21:15:48,955 - INFO - Joc ini\u021bializat
+2025-05-20 21:15:48,993 - ERROR - Eroare la înc\u0103rcarea imaginii de fundal: image "pyimage3" doesn't exist
+2025-05-20 21:17:36,179 - INFO - Joc ini\u021bializat
+2025-05-20 21:17:36,234 - ERROR - Eroare la înc\u0103rcarea imaginii de fundal: image "pyimage3" doesn't exist
+2025-05-20 21:17:37,121 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 21:17:37,122 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:17:37,122 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 21:17:37,122 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:17:37,157 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 21:17:37,186 - INFO - Ecran de login creat cu ttkbootstrap
+2025-05-20 21:17:50,625 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-20 21:17:50,626 - INFO - Ultimul login salvat: dalia44
+2025-05-20 21:17:50,627 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:17:50,637 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:17:50,657 - INFO - Meniu principal creat cu ttkbootstrap
+2025-05-20 21:17:50,657 - INFO - Login successful for user: dalia44
+2025-05-20 21:17:56,446 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/general_mediu.txt
+2025-05-20 21:17:56,446 - INFO - Selectate 10 întreb\u0103ri pentru joc
+2025-05-20 21:17:56,458 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:17:56,482 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-20 21:17:56,482 - INFO - Joc început: general, mediu, 10 întreb\u0103ri
+2025-05-20 21:18:04,118 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:18:04,130 - INFO - Meniu principal creat cu ttkbootstrap
+2025-05-20 21:18:05,514 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:18:05,520 - INFO - Statistici afi\u0219ate pentru juc\u0103tor: dalia44
+2025-05-20 21:18:07,238 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:18:07,252 - INFO - Meniu principal creat cu ttkbootstrap
+2025-05-20 21:18:21,100 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 21:18:21,116 - INFO - Joc închis de utilizator
+2025-05-20 21:21:29,155 - INFO - Joc ini\u021bializat
+2025-05-20 21:21:29,203 - ERROR - Eroare la înc\u0103rcarea imaginii de fundal: image "pyimage3" doesn't exist
+2025-05-20 21:21:31,784 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 21:21:31,785 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:21:31,786 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 21:21:31,786 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:21:31,795 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 21:21:31,820 - INFO - Ecran de login creat cu ttkbootstrap
+2025-05-20 21:21:46,737 - INFO - Utilizatori salva\u021bi: 
+2025-05-20 21:21:46,782 - INFO - Joc închis de utilizator
+2025-05-20 21:21:50,913 - INFO - Joc ini\u021bializat
+2025-05-20 21:21:50,956 - ERROR - Eroare la înc\u0103rcarea imaginii de fundal: image "pyimage3" doesn't exist
+2025-05-20 21:22:06,032 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 21:22:06,032 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:22:06,033 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 21:22:06,033 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:22:06,038 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 21:22:06,054 - INFO - Ecran de login creat cu ttkbootstrap
+2025-05-20 21:22:08,256 - INFO - Utilizatori salva\u021bi: 
+2025-05-20 21:22:08,274 - INFO - Joc închis de utilizator
+2025-05-20 21:24:39,158 - INFO - Joc ini\u021bializat
+2025-05-20 21:24:39,194 - ERROR - Eroare la înc\u0103rcarea imaginii de fundal: image "pyimage3" doesn't exist
+2025-05-20 21:24:41,504 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 21:24:41,505 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:24:41,505 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 21:24:41,506 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:24:41,512 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 21:24:41,529 - INFO - Ecran de login creat cu ttkbootstrap
+2025-05-20 21:24:46,432 - INFO - Utilizatori salva\u021bi: 
+2025-05-20 21:24:46,481 - INFO - Joc închis de utilizator
+2025-05-20 21:26:11,174 - INFO - Joc ini\u021bializat
+2025-05-20 21:26:11,193 - ERROR - Eroare la înc\u0103rcarea sau procesarea imaginii de fundal: 'NoneType' object has no attribute 'seek'
+2025-05-20 21:28:33,671 - INFO - Joc ini\u021bializat
+2025-05-20 21:28:33,688 - ERROR - Eroare la înc\u0103rcarea sau procesarea imaginii de fundal: 'NoneType' object has no attribute 'seek'
+2025-05-20 21:28:37,142 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 21:28:37,143 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:28:37,143 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 21:28:37,143 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:28:37,148 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 21:28:37,194 - INFO - Ecran de login creat cu ttkbootstrap
+2025-05-20 21:28:44,600 - WARNING - Attempt to register with existing username: dalia44
+2025-05-20 21:28:44,763 - WARNING - Attempt to register with existing username: dalia44
+2025-05-20 21:28:44,936 - WARNING - Attempt to register with existing username: dalia44
+2025-05-20 21:28:46,897 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-20 21:28:46,899 - INFO - Ultimul login salvat: dalia44
+2025-05-20 21:28:46,899 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:28:46,912 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:28:46,927 - INFO - Meniu principal creat cu ttkbootstrap
+2025-05-20 21:28:46,927 - INFO - Login successful for user: dalia44
+2025-05-20 21:28:53,346 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 21:28:53,389 - INFO - Joc închis de utilizator
+2025-05-20 21:30:10,363 - INFO - Joc ini\u021bializat
+2025-05-20 21:30:10,443 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 21:30:11,263 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 21:30:11,264 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:30:11,264 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 21:30:11,265 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:30:11,270 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 21:30:11,274 - INFO - Ecran de login creat
+2025-05-20 21:30:17,880 - INFO - Joc ini\u021bializat
+2025-05-20 21:30:17,921 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 21:30:18,613 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 21:30:18,614 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:30:18,614 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 21:30:18,614 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:30:18,618 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 21:30:18,619 - INFO - Ecran de login creat
+2025-05-20 21:30:26,816 - INFO - Joc ini\u021bializat
+2025-05-20 21:30:26,857 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 21:30:27,582 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 21:30:27,583 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:30:27,583 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 21:30:27,583 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:30:27,586 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 21:30:27,589 - INFO - Ecran de login creat
+2025-05-20 21:30:37,454 - INFO - Joc ini\u021bializat
+2025-05-20 21:30:37,500 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 21:30:38,237 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 21:30:38,238 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:30:38,238 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 21:30:38,239 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:30:38,242 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 21:30:38,244 - INFO - Ecran de login creat
+2025-05-20 21:30:50,444 - INFO - Joc ini\u021bializat
+2025-05-20 21:30:50,483 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 21:30:51,228 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 21:30:51,229 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:30:51,229 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 21:30:51,230 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:30:51,234 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 21:30:51,235 - INFO - Ecran de login creat
+2025-05-20 21:30:54,807 - INFO - Joc ini\u021bializat
+2025-05-20 21:30:54,847 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 21:30:55,549 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 21:30:55,550 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:30:55,550 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 21:30:55,550 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:30:55,554 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 21:30:55,556 - INFO - Ecran de login creat
+2025-05-20 21:31:22,901 - INFO - Joc ini\u021bializat
+2025-05-20 21:31:23,019 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 21:31:23,997 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 21:31:23,998 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:31:23,998 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 21:31:23,998 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:31:24,004 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 21:31:24,007 - INFO - Ecran de login creat
+2025-05-20 21:31:40,322 - INFO - Joc ini\u021bializat
+2025-05-20 21:31:40,357 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 21:31:41,103 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 21:31:41,104 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:31:41,105 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 21:31:41,105 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:31:41,109 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 21:31:41,111 - INFO - Ecran de login creat
+2025-05-20 21:31:46,116 - INFO - Joc ini\u021bializat
+2025-05-20 21:31:46,151 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 21:31:46,851 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 21:31:46,852 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:31:46,852 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 21:31:46,852 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:31:46,856 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 21:31:46,858 - INFO - Ecran de login creat
+2025-05-20 21:33:03,115 - INFO - Joc ini\u021bializat
+2025-05-20 21:33:03,156 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 21:33:03,905 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 21:33:03,906 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:33:03,906 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 21:33:03,906 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:33:03,910 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 21:33:03,912 - INFO - Ecran de login creat
+2025-05-20 21:41:15,316 - INFO - Joc ini\u021bializat
+2025-05-20 21:41:15,371 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 21:41:16,229 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 21:41:16,230 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:41:16,231 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 21:41:16,231 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:41:16,235 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 21:41:16,238 - INFO - Ecran de login creat
+2025-05-20 21:41:19,913 - INFO - Joc ini\u021bializat
+2025-05-20 21:41:19,959 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 21:41:20,695 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 21:41:20,696 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:41:20,697 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 21:41:20,697 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:41:20,701 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 21:41:20,705 - INFO - Ecran de login creat
+2025-05-20 21:43:52,128 - INFO - Joc ini\u021bializat
+2025-05-20 21:43:52,201 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 21:43:53,001 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 21:43:53,002 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:43:53,003 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 21:43:53,003 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:43:53,006 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 21:43:53,008 - INFO - Ecran de login creat
+2025-05-20 21:44:46,539 - INFO - Joc ini\u021bializat
+2025-05-20 21:44:46,836 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 21:44:49,946 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 21:44:49,947 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:44:49,948 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 21:44:49,948 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:44:49,954 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 21:44:49,958 - INFO - Ecran de login creat
+2025-05-20 21:44:57,206 - INFO - Joc ini\u021bializat
+2025-05-20 21:44:57,260 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 21:44:58,061 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 21:44:58,062 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:44:58,063 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 21:44:58,063 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:44:58,067 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 21:44:58,069 - INFO - Ecran de login creat
+2025-05-20 21:45:00,826 - INFO - Joc ini\u021bializat
+2025-05-20 21:45:00,872 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 21:45:01,579 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 21:45:01,580 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:45:01,580 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 21:45:01,580 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:45:01,584 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 21:45:01,588 - INFO - Ecran de login creat
+2025-05-20 21:46:53,510 - INFO - Joc ini\u021bializat
+2025-05-20 21:46:53,591 - INFO - Fundalul imaginii setat cu succes
+2025-05-20 21:46:54,455 - INFO - Sunete ini\u021bializate cu succes
+2025-05-20 21:46:54,468 - INFO - Utilizatori înc\u0103rca\u021bi cu succes
+2025-05-20 21:46:54,469 - INFO - Scoruri înc\u0103rcate: 14 intr\u0103ri
+2025-05-20 21:46:54,470 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:46:54,474 - INFO - Ultimul login înc\u0103rcat: dalia44
+2025-05-20 21:46:54,476 - INFO - Ecran de login creat
+2025-05-20 21:46:58,400 - INFO - Parol\u0103 hash-uit\u0103
+2025-05-20 21:46:58,402 - INFO - Ultimul login salvat: dalia44
+2025-05-20 21:46:58,430 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:46:58,433 - INFO - Meniu principal creat
+2025-05-20 21:46:58,433 - INFO - Login reu\u0219it pentru utilizator: dalia44
+2025-05-20 21:47:00,860 - INFO - Înc\u0103rcate 100 întreb\u0103ri din categories/general_mediu.txt
+2025-05-20 21:47:00,860 - INFO - Selectate 10 întreb\u0103ri pentru joc
+2025-05-20 21:47:00,883 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:47:00,890 - INFO - Ecran întrebare afi\u0219at: Întrebarea 1
+2025-05-20 21:47:00,890 - INFO - Joc început: general, mediu, 10 întreb\u0103ri
+2025-05-20 21:47:04,355 - INFO - Interfa\u021b\u0103 cur\u0103\u021bat\u0103
+2025-05-20 21:47:04,357 - INFO - Meniu principal creat
+2025-05-20 21:47:08,311 - INFO - Utilizatori salva\u021bi: dalia44
+2025-05-20 21:47:08,367 - INFO - Joc închis de utilizator
