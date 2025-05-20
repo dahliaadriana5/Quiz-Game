@@ -24,7 +24,9 @@ The genesis of this project arose from a vision to create an educational tool th
 
 Hint Logic: The hint system ("Half Letters," "First Letter") may occasionally offer suboptimal assistance due to random selection limitations.
 Question Simulation: Simulated questions, used when category files are absent, lack depth and may repeat, necessitating manual file creation for a richer experience.
+
 Performance Constraints: Local testing with SQLite may experience lag with a large user base, rendering it unsuitable for production-scale deployment.
+
 Sound Compatibility: Audio effects via pygame are basic and may require additional configuration for consistent performance across systems.
 
 🧪 Technologies Used
